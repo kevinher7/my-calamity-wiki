@@ -1,0 +1,12 @@
+.class--button {
+	/* padding: var(--spacing-xl); */
+	width: 8rem;
+
+	color: var(--light-color);
+	background-color: var(--detail-color);
+
+	font: var(--class-button-font);
+
+	border: none;
+	border-radius: 10px;
+}
