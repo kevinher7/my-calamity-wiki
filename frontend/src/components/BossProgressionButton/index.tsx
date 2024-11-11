@@ -5,6 +5,7 @@ import { SidebarContext } from "../../utils/SidebarContext";
 
 interface BossProgressionProps {
 	progressionState: string;
+	progressIcon: string;
 }
 
 const BossProgression = (props: BossProgressionProps) => {
@@ -27,7 +28,15 @@ const BossProgression = (props: BossProgressionProps) => {
 			onClick={handleClick}
 			data-sidebar={isSidebar}
 		>
-			{props.progressionState}
+			{isSidebar ? (
+				<img
+					src={props.progressIcon}
+					alt={props.progressionState}
+					width={70}
+				/>
+			) : (
+				props.progressionState
+			)}
 		</button>
 	);
 };

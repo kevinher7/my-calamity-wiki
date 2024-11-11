@@ -6,6 +6,9 @@ import { useGSAP } from "@gsap/react";
 import BossProgression from "../../components/BossProgressionButton";
 
 import meleeIcon from "../../assets/classes/melee-icon.svg";
+import moonLordIcon from "../../assets/progression/moonlord-icon.svg";
+import hardmodeIcon from "../../assets/progression/hardmode-icon.svg";
+import preHardmodeIcon from "../../assets/progression/prehardmode-icon.svg";
 
 import "./styles.css";
 import { SidebarContext } from "../../utils/SidebarContext";
@@ -59,9 +62,18 @@ const ClassSetupPage = (props: ClassSetupProps) => {
 			)}
 			<div className="boss-progression--button-container">
 				<SidebarContext.Provider value={{ isSidebar, setIsSidebar }}>
-					<BossProgression progressionState="Pre-Hardmode" />
-					<BossProgression progressionState="Hardmode" />
-					<BossProgression progressionState="Post-Moon Lord" />
+					<BossProgression
+						progressionState="Pre-Hardmode"
+						progressIcon={preHardmodeIcon}
+					/>
+					<BossProgression
+						progressionState="Hardmode"
+						progressIcon={hardmodeIcon}
+					/>
+					<BossProgression
+						progressionState="Post-Moon Lord"
+						progressIcon={moonLordIcon}
+					/>
 				</SidebarContext.Provider>
 			</div>
 		</div>
