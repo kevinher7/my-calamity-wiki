@@ -8,7 +8,7 @@ import BossProgression from "../../components/BossProgressionButton";
 import meleeIcon from "../../assets/classes/melee-icon.svg";
 
 import "./styles.css";
-import { SidebarContext } from "../../utils/sidebarContext";
+import { SidebarContext } from "../../utils/SidebarContext";
 
 interface ClassSetupProps {
 	classType: string;

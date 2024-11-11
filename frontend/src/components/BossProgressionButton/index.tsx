@@ -1,7 +1,7 @@
 import { useContext } from "react";
 
 import "./styles.css";
-import { SidebarContext } from "../../utils/sidebarContext";
+import { SidebarContext } from "../../utils/SidebarContext";
 
 interface BossProgressionProps {
 	progressionState: string;
@@ -18,7 +18,6 @@ const BossProgression = (props: BossProgressionProps) => {
 			console.log(isSidebar);
 			return;
 		}
-
 		console.error("setIsSidebar is not defined");
 	};
 
