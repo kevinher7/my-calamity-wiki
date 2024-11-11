@@ -1,0 +1,51 @@
+.boss-progression--button {
+	padding: var(--spacing-xl);
+
+	width: 20rem;
+	height: 20rem;
+
+	margin: var(--spacing-xxl);
+
+	font: var(--boss-prog-font);
+
+	border: none;
+	border-radius: 20px;
+
+	background-color: var(--dark-color-90);
+	color: var(--dark-color-70);
+}
+
+.boss-progression--button:hover {
+	color: white;
+	cursor: pointer;
+}
+
+.boss-progression--side-button {
+	width: 4rem;
+	height: 4rem;
+
+	margin: var(--spacing-xl);
+
+	border: none;
+	border-radius: 20px;
+
+	background-color: var(--dark-color-90);
+	color: var(--dark-color-70);
+
+	font-size: 0;
+}
+
+/* .boss-progression--button[data-sidebar="true"] {
+	animation: makeSideButton 1s 1;
+}
+
+@keyframes makeSideButton {
+	25% {
+		background-color: blue;
+	}
+	100% {
+		left: 0;
+		width: 100px;
+		height: 100px;
+	}
+} */

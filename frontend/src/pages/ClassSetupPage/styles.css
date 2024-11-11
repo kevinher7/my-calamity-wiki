@@ -1,0 +1,21 @@
+.boss-progression--container {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+
+	text-align: center;
+}
+
+.boss-progression--button-container {
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	margin-top: var(--spacing-xxxl);
+
+	width: 100vw;
+}
+
+.class-setup--h1 {
+	margin-bottom: 2rem;
+}

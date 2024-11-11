@@ -1,5 +1,4 @@
 .class--button {
-	/* padding: var(--spacing-xl); */
 	width: 8rem;
 
 	color: var(--light-color);
@@ -9,4 +8,10 @@
 
 	border: none;
 	border-radius: 10px;
+}
+
+.class--button:hover {
+	color: var(--detail-color);
+	background-color: var(--light-color);
+	cursor: pointer;
 }
