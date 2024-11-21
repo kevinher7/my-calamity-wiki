@@ -1,16 +1,24 @@
+import * as fs from "fs";
+import * as path from "path";
+
 import * as cheerio from "cheerio";
-import { Element } from "domhandler";
 import axios from "axios";
-import { classSetup } from "../types/classSetup";
 
-const getHTLM = async (url: string) => {
-	const response = await axios.get(url);
+import { Element } from "domhandler";
+import { classSetup, wikiItem } from "../types/classSetup";
 
-	if (response.status !== 200) {
-		throw new Error(`Response status: ${response.status}`);
-	}
+// Main Function
+export const scrapeWiki = async () => {
+	const preHardmodeUrl =
+		"https://calamitymod.wiki.gg/index.php?action=render&title=Guide%3AClass%20setups%2FPre-Hardmode";
 
-	return response.data;
+	const wikiResponse = await getHTLM(preHardmodeUrl);
+
+	const classSetups = getClassSetups(wikiResponse);
+
+	writeJsonFile(classSetups);
+
+	return 0;
 };
 
 const getClassSetups = (response: string) => {
@@ -19,14 +27,14 @@ const getClassSetups = (response: string) => {
 
 	const $ = cheerio.load(response);
 
-	// Get Game States
+	// Get Game States from h2's
 	const $gameState = $("h2").find("span").filter(".mw-headline");
 
 	$gameState.each((index, heading) => {
 		gameStates[index] = heading.attribs?.id ?? "";
 	});
 
-	// Get Setups per Class
+	// Get Setups from Tables
 
 	const $tables = $("table.terraria");
 
@@ -48,32 +56,7 @@ const getClassSetups = (response: string) => {
 
 			const $column = $(row).find("td");
 
-			// extractSetupsFromColumn($, $column, setup);
-
-			$column.each((columnIndex, column) => {
-				if (columnIndex === 0) {
-					setup.class = $(column).text();
-				}
-
-				if (columnIndex === 1) {
-					const $weapons = $(column).find("a");
-
-					if (!$weapons) {
-						return;
-					}
-
-					$weapons.each((weaponIndex, weapon) => {
-						if (!$(weapon).text()) {
-							return;
-						}
-
-						setup.weapons.push({
-							itemName: weapon.attribs?.title ?? null,
-							itemURL: weapon.attribs?.href ?? null,
-						});
-					});
-				}
-			});
+			extractSetupsFromColumn($, $column, setup);
 
 			setups.push(setup);
 		});
@@ -81,26 +64,91 @@ const getClassSetups = (response: string) => {
 		classSetups.push(setups);
 	});
 
-	// console.log(classSetups[3][2]);
+	// console.log(classSetups[0][0]);
 
-	return $tables;
+	return classSetups;
+};
+
+const getHTLM = async (url: string) => {
+	const response = await axios.get(url);
+
+	if (response.status !== 200) {
+		throw new Error(`Response status: ${response.status}`);
+	}
+
+	return response.data;
+};
+
+const writeJsonFile = (
+	jsonData: object[],
+	filePath = "./db/classSetupsData.json"
+) => {
+	try {
+		const directory = path.dirname(filePath);
+
+		if (!directory) {
+			throw new Error(`File path '${filePath}' does not exist`);
+		}
+
+		fs.writeFileSync(filePath, JSON.stringify(jsonData, null, 2), "utf-8");
+
+		console.log(`JSON data successfully written to ${filePath}`);
+	} catch (error) {
+		console.error(`Failed to write JSON data to ${filePath}:`, error);
+	}
 };
 
 const getTableData = ($cheerioTables: cheerio.Cheerio<Element>) => {};
 
-export const scrapeWiki = async () => {
-	// const wikiUrl = "https://calamitymod.wiki.gg/wiki/Guide:Class_setups";
+const extractSetupsFromColumn = (
+	$: cheerio.CheerioAPI,
+	$column: cheerio.Cheerio<Element>,
+	setupObject: classSetup
+) => {
+	$column.each((columnIndex, column) => {
+		if (columnIndex === 0) {
+			setupObject.class = $(column).text();
+		}
 
-	// getHTLM(wikiUrl)
-	// 	.then((res) => getClassSetups(res))
-	// 	.then(($tablaData) => getTableData($tablaData));
+		if (columnIndex === 1) {
+			setupObject.weapons = getColumnItems($, column) ?? [];
+		}
 
-	const preHardmodeUrl =
-		"https://calamitymod.wiki.gg/index.php?action=render&title=Guide%3AClass%20setups%2FPre-Hardmode";
+		if (columnIndex === 2) {
+			setupObject.armor = getColumnItems($, column) ?? [];
+		}
 
-	const wikiResponse = await getHTLM(preHardmodeUrl);
+		if (columnIndex === 3) {
+			setupObject.accesories = getColumnItems($, column) ?? [];
+		}
 
-	getClassSetups(wikiResponse);
+		if (columnIndex === 4) {
+			setupObject.extra = getColumnItems($, column) ?? [];
+		}
+	});
+};
 
-	return 0;
+const getColumnItems = (
+	$: cheerio.CheerioAPI,
+	column: Element
+): wikiItem[] | null => {
+	const columnItems: wikiItem[] = [];
+	const $items = $(column).find("a");
+
+	if (!$items) {
+		return null;
+	}
+
+	$items.each((itemIndex, item) => {
+		if (!$(item).text()) {
+			return;
+		}
+
+		columnItems.push({
+			itemName: item.attribs?.title ?? null,
+			itemURL: item.attribs?.href ?? null,
+		});
+	});
+
+	return columnItems;
 };

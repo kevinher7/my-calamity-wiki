@@ -1,4 +1,4 @@
-interface wikiItem {
+export interface wikiItem {
 	itemName: string;
 	itemURL: string;
 }
