@@ -12,15 +12,15 @@ export const scrapeWiki = async () => {
 	const preHardmodeUrl =
 		"https://calamitymod.wiki.gg/index.php?action=render&title=Guide%3AClass%20setups%2FPre-Hardmode";
 
-	const hardmodeURL = "";
+	const hardmodeURL =
+		"https://calamitymod.wiki.gg/index.php?action=render&title=Guide%3AClass%20setups%2FHardmode";
 
-	const postMLURL = "";
+	const postMoonLordURL =
+		"https://calamitymod.wiki.gg/index.php?action=render&title=Guide%3AClass%20setups%2FPost-Moon%20Lord";
 
-	const wikiResponse = await getHTLM(preHardmodeUrl);
-
-	const classSetupsPH = getClassSetups(wikiResponse);
-
-	writeJsonFile(classSetupsPH, "preHardmode");
+	fetchAndProcessClassSetups(preHardmodeUrl, "preHardmode");
+	fetchAndProcessClassSetups(hardmodeURL, "hardmode");
+	fetchAndProcessClassSetups(postMoonLordURL, "postMoonLord");
 
 	return 0;
 };
@@ -89,6 +89,17 @@ const getHTLM = async (url: string) => {
 	}
 
 	return response.data;
+};
+
+const fetchAndProcessClassSetups = async (
+	wikiPageUrl: string,
+	gameState: string
+) => {
+	const wikiResponse = await getHTLM(wikiPageUrl);
+
+	const classSetups = getClassSetups(wikiResponse);
+
+	writeJsonFile(classSetups, gameState);
 };
 
 const writeJsonFile = (jsonData: object[], gameState: string) => {

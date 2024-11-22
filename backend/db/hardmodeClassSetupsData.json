@@ -1,0 +1,5026 @@
+[
+  {
+    "gameState": "Pre-Mechanical_Bosses",
+    "classSetups": [
+      {
+        "class": "Melee\n",
+        "weapons": [
+          {
+            "itemName": "Avalanche",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Avalanche"
+          },
+          {
+            "itemName": "Chain Guillotines",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Chain_Guillotines"
+          },
+          {
+            "itemName": "Dao of Pow",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Dao_of_Pow"
+          },
+          {
+            "itemName": "Shadowflame Knife",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Shadowflame_Knife"
+          },
+          {
+            "itemName": "Storm Saber",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Storm_Saber"
+          },
+          {
+            "itemName": "Yin-Yo",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Yin-Yo"
+          }
+        ],
+        "armor": [
+          {
+            "itemName": "Cobalt armor",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Cobalt_armor"
+          },
+          {
+            "itemName": "Palladium armor",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Palladium_armor"
+          }
+        ],
+        "accesories": [
+          {
+            "itemName": "Berserker's Glove",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Berserker%27s_Glove"
+          },
+          {
+            "itemName": "Power Glove",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Power_Glove"
+          },
+          {
+            "itemName": "Bloody Worm Scarf",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Bloody_Worm_Scarf"
+          },
+          {
+            "itemName": "Warrior Emblem",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Warrior_Emblem"
+          },
+          {
+            "itemName": "Yoyo Bag",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Yoyo_Bag"
+          }
+        ],
+        "extra": [
+          {
+            "itemName": "Flask of Ichor",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Flask_of_Ichor"
+          },
+          {
+            "itemName": "Ale",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Ale"
+          },
+          {
+            "itemName": "Sharpening Station",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Sharpening_Station"
+          }
+        ]
+      },
+      {
+        "class": "Ranged\n",
+        "weapons": [
+          {
+            "itemName": "Butcher (weapon)",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Butcher_(weapon)"
+          },
+          {
+            "itemName": "Daedalus Stormbow",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Daedalus_Stormbow"
+          },
+          {
+            "itemName": "Flarewing Bow",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Flarewing_Bow"
+          },
+          {
+            "itemName": "Marrow",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Marrow"
+          },
+          {
+            "itemName": "Needler",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Needler"
+          },
+          {
+            "itemName": "Pearlwood Bow",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Pearlwood_Bow"
+          },
+          {
+            "itemName": "Toxikarp",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Toxikarp"
+          }
+        ],
+        "armor": [
+          {
+            "itemName": "Cobalt armor",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Cobalt_armor"
+          },
+          {
+            "itemName": "Palladium armor",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Palladium_armor"
+          }
+        ],
+        "accesories": [
+          {
+            "itemName": "Magic Quiver",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Magic_Quiver"
+          },
+          {
+            "itemName": "Ranger Emblem",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Ranger_Emblem"
+          }
+        ],
+        "extra": [
+          {
+            "itemName": "Ammo Reservation Potion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Ammo_Reservation_Potion"
+          },
+          {
+            "itemName": "Archery Potion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Archery_Potion"
+          },
+          {
+            "itemName": "Ammo Box",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Ammo_Box"
+          },
+          {
+            "itemName": "Cursed Arrow",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Cursed_Arrow"
+          },
+          {
+            "itemName": "Ichor Arrow",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Ichor_Arrow"
+          },
+          {
+            "itemName": "Jester's Arrow",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Jester%27s_Arrow"
+          },
+          {
+            "itemName": "Cursed Bullet",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Cursed_Bullet"
+          },
+          {
+            "itemName": "Exploding Bullet",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Exploding_Bullet"
+          },
+          {
+            "itemName": "Ichor Bullet",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Ichor_Bullet"
+          },
+          {
+            "itemName": "Musket Ball",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Musket_Ball"
+          },
+          {
+            "itemName": "Tungsten Bullet",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Tungsten_Bullet"
+          }
+        ]
+      },
+      {
+        "class": "Magic\n",
+        "weapons": [
+          {
+            "itemName": "Clothier's Wrath",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Clothier%27s_Wrath"
+          },
+          {
+            "itemName": "Frigidflash Bolt",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Frigidflash_Bolt"
+          },
+          {
+            "itemName": "Meteor Staff",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Meteor_Staff"
+          },
+          {
+            "itemName": "Orange Zapinator",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Orange_Zapinator"
+          },
+          {
+            "itemName": "Poseidon",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Poseidon"
+          },
+          {
+            "itemName": "Shadowflame Hex Doll",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Shadowflame_Hex_Doll"
+          },
+          {
+            "itemName": "Snowstorm Staff",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Snowstorm_Staff"
+          }
+        ],
+        "armor": [
+          {
+            "itemName": "Cobalt armor",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Cobalt_armor"
+          },
+          {
+            "itemName": "Palladium armor",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Palladium_armor"
+          }
+        ],
+        "accesories": [
+          {
+            "itemName": "Arcane Flower",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Arcane_Flower"
+          },
+          {
+            "itemName": "Mana Polarizer",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Mana_Polarizer"
+          },
+          {
+            "itemName": "Permafrost's Concoction",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Permafrost%27s_Concoction"
+          },
+          {
+            "itemName": "Sorcerer Emblem",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Sorcerer_Emblem"
+          }
+        ],
+        "extra": [
+          {
+            "itemName": "Super Mana Potion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Super_Mana_Potion"
+          },
+          {
+            "itemName": "Magic Power Potion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Magic_Power_Potion"
+          },
+          {
+            "itemName": "Mana Regeneration Potion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Mana_Regeneration_Potion"
+          },
+          {
+            "itemName": "Crystal Ball",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Crystal_Ball"
+          }
+        ]
+      },
+      {
+        "class": "Summoning\n",
+        "weapons": [
+          {
+            "itemName": "Ancient Ice Chunk",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Ancient_Ice_Chunk"
+          },
+          {
+            "itemName": "Caustic Staff",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Caustic_Staff"
+          },
+          {
+            "itemName": "Glacial Embrace",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Glacial_Embrace"
+          },
+          {
+            "itemName": "Sanguine Staff",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Sanguine_Staff"
+          },
+          {
+            "itemName": "Shellfish Staff",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Shellfish_Staff"
+          },
+          {
+            "itemName": "Queen Spider Staff",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Queen_Spider_Staff"
+          },
+          {
+            "itemName": "Cool Whip",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Cool_Whip"
+          },
+          {
+            "itemName": "Firecracker",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Firecracker"
+          }
+        ],
+        "armor": [
+          {
+            "itemName": "Spider armor",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Spider_armor"
+          }
+        ],
+        "accesories": [
+          {
+            "itemName": "The First Shadowflame",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/The_First_Shadowflame"
+          },
+          {
+            "itemName": "Jelly-Charged Battery",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Jelly-Charged_Battery"
+          },
+          {
+            "itemName": "Pygmy Necklace",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Pygmy_Necklace"
+          },
+          {
+            "itemName": "Spirit Glyph",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Spirit_Glyph"
+          },
+          {
+            "itemName": "Summoner Emblem",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Summoner_Emblem"
+          }
+        ],
+        "extra": [
+          {
+            "itemName": "Flask of Ichor",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Flask_of_Ichor"
+          },
+          {
+            "itemName": "Summoning Potion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Summoning_Potion"
+          },
+          {
+            "itemName": "Bewitching Table",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Bewitching_Table"
+          },
+          {
+            "itemName": "War Table",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/War_Table"
+          }
+        ]
+      },
+      {
+        "class": "Rogue\n",
+        "weapons": [
+          {
+            "itemName": "Cursed Dagger",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Cursed_Dagger"
+          },
+          {
+            "itemName": "Cobalt Kunai",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Cobalt_Kunai"
+          },
+          {
+            "itemName": "Equanimity",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Equanimity"
+          },
+          {
+            "itemName": "Kelvin Catalyst",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Kelvin_Catalyst"
+          },
+          {
+            "itemName": "Palladium Javelin",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Palladium_Javelin"
+          },
+          {
+            "itemName": "Prismalline",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Prismalline"
+          },
+          {
+            "itemName": "Burning Strife",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Burning_Strife"
+          },
+          {
+            "itemName": "Equanimity",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Equanimity"
+          },
+          {
+            "itemName": "Ichor Spear",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Ichor_Spear"
+          },
+          {
+            "itemName": "Kelvin Catalyst",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Kelvin_Catalyst"
+          },
+          {
+            "itemName": "Palladium Javelin",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Palladium_Javelin"
+          }
+        ],
+        "armor": [
+          {
+            "itemName": "Statigel armor",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Statigel_armor"
+          },
+          {
+            "itemName": "Titan Heart armor",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Titan_Heart_armor"
+          }
+        ],
+        "accesories": [
+          {
+            "itemName": "Coin of Deceit",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Coin_of_Deceit"
+          },
+          {
+            "itemName": "Rogue Emblem",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Rogue_Emblem"
+          },
+          {
+            "itemName": "Bloodstained Glove",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Bloodstained_Glove"
+          },
+          {
+            "itemName": "Filthy Glove",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Filthy_Glove"
+          },
+          {
+            "itemName": "Coin of Deceit",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Coin_of_Deceit"
+          },
+          {
+            "itemName": "Mirage Mirror",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Mirage_Mirror"
+          },
+          {
+            "itemName": "Silencing Sheath",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Silencing_Sheath"
+          }
+        ],
+        "extra": [
+          {
+            "itemName": "Flask of Ichor",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Flask_of_Ichor"
+          },
+          {
+            "itemName": "Shadow Potion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Shadow_Potion"
+          }
+        ]
+      },
+      {
+        "class": "All Classes\n",
+        "weapons": [
+          {
+            "itemName": "Lunic Eye",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Lunic_Eye"
+          },
+          {
+            "itemName": "Rod of Discord",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Rod_of_Discord"
+          }
+        ],
+        "armor": [
+          {
+            "itemName": "Cirrus' Dress",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Cirrus%27_Dress"
+          },
+          {
+            "itemName": "Crystal Assassin armor",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Crystal_Assassin_armor"
+          },
+          {
+            "itemName": "Mollusk armor",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Mollusk_armor"
+          }
+        ],
+        "accesories": [
+          {
+            "itemName": "Amalgamated Brain",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Amalgamated_Brain"
+          },
+          {
+            "itemName": "Grand Gelatin",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Grand_Gelatin"
+          },
+          {
+            "itemName": "Stress Pills",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Stress_Pills"
+          },
+          {
+            "itemName": "Ankh Shield",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Ankh_Shield"
+          },
+          {
+            "itemName": "Charm of Myths",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Charm_of_Myths"
+          },
+          {
+            "itemName": "Honey Dew",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Honey_Dew"
+          },
+          {
+            "itemName": "Radiant Ooze",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Radiant_Ooze"
+          },
+          {
+            "itemName": "Star Veil",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Star_Veil"
+          },
+          {
+            "itemName": "Ursa Sergeant",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Ursa_Sergeant"
+          },
+          {
+            "itemName": "Angel Wings",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Angel_Wings"
+          },
+          {
+            "itemName": "Bundle of Horseshoe Balloons",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Bundle_of_Horseshoe_Balloons"
+          },
+          {
+            "itemName": "Demon Wings",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Demon_Wings"
+          },
+          {
+            "itemName": "Fairy Wings",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Fairy_Wings"
+          },
+          {
+            "itemName": "Counter Scarf",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Counter_Scarf"
+          },
+          {
+            "itemName": "Deep Diver",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Deep_Diver"
+          },
+          {
+            "itemName": "Fairy Boots",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Fairy_Boots"
+          },
+          {
+            "itemName": "Terraspark Boots",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Terraspark_Boots"
+          },
+          {
+            "itemName": "Putrid Scent",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Putrid_Scent"
+          },
+          {
+            "itemName": "Slagsplitter Pauldron",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Slagsplitter_Pauldron"
+          }
+        ],
+        "extra": [
+          {
+            "itemName": "Greater Healing Potion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Greater_Healing_Potion"
+          },
+          {
+            "itemName": "Candles",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Candles#Purchased"
+          },
+          {
+            "itemName": "Burger",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Burger"
+          },
+          {
+            "itemName": "Inferno Potion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Inferno_Potion"
+          },
+          {
+            "itemName": "Potion of Omniscience",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Potion_of_Omniscience"
+          },
+          {
+            "itemName": "Tesla Potion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Tesla_Potion"
+          },
+          {
+            "itemName": "Endurance Potion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Endurance_Potion"
+          },
+          {
+            "itemName": "Heartreach Potion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Heartreach_Potion"
+          },
+          {
+            "itemName": "Ironskin Potion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Ironskin_Potion"
+          },
+          {
+            "itemName": "Lifeforce Potion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Lifeforce_Potion"
+          },
+          {
+            "itemName": "Photosynthesis Potion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Photosynthesis_Potion"
+          },
+          {
+            "itemName": "Regeneration Potion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Regeneration_Potion"
+          },
+          {
+            "itemName": "Warmth Potion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Warmth_Potion"
+          },
+          {
+            "itemName": "Slice of Cake",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Slice_of_Cake"
+          },
+          {
+            "itemName": "Soaring Potion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Soaring_Potion"
+          },
+          {
+            "itemName": "Swiftness Potion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Swiftness_Potion"
+          },
+          {
+            "itemName": "Fabsol's Vodka",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Fabsol%27s_Vodka"
+          },
+          {
+            "itemName": "Rage Potion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Rage_Potion"
+          },
+          {
+            "itemName": "Wrath Potion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Wrath_Potion"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "gameState": "Post-Mechanical_Boss_1",
+    "classSetups": [
+      {
+        "class": "Melee\n",
+        "weapons": [
+          {
+            "itemName": "Brimstone Sword",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Brimstone_Sword"
+          },
+          {
+            "itemName": "Dao of Pow",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Dao_of_Pow"
+          },
+          {
+            "itemName": "Inferna Cutter",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Inferna_Cutter"
+          },
+          {
+            "itemName": "Mushroom Spear",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Mushroom_Spear"
+          },
+          {
+            "itemName": "Shadowflame Knife",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Shadowflame_Knife"
+          },
+          {
+            "itemName": "Submarine Shocker",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Submarine_Shocker"
+          },
+          {
+            "itemName": "Yelets",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Yelets"
+          }
+        ],
+        "armor": [
+          {
+            "itemName": "Mythril armor",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Mythril_armor"
+          },
+          {
+            "itemName": "Orichalcum armor",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Orichalcum_armor"
+          }
+        ],
+        "accesories": [
+          {
+            "itemName": "Berserker's Glove",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Berserker%27s_Glove"
+          },
+          {
+            "itemName": "Power Glove",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Power_Glove"
+          },
+          {
+            "itemName": "Bloody Worm Scarf",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Bloody_Worm_Scarf"
+          },
+          {
+            "itemName": "Flame Wings",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Flame_Wings"
+          },
+          {
+            "itemName": "Warrior Emblem",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Warrior_Emblem"
+          },
+          {
+            "itemName": "Yoyo Bag",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Yoyo_Bag"
+          }
+        ],
+        "extra": [
+          {
+            "itemName": "Flask of Ichor",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Flask_of_Ichor"
+          },
+          {
+            "itemName": "Ale",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Ale"
+          },
+          {
+            "itemName": "Sharpening Station",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Sharpening_Station"
+          }
+        ]
+      },
+      {
+        "class": "Ranged\n",
+        "weapons": [
+          {
+            "itemName": "Barinautical",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Barinautical"
+          },
+          {
+            "itemName": "Brimstone Fury",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Brimstone_Fury"
+          },
+          {
+            "itemName": "Flamethrower",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Flamethrower"
+          },
+          {
+            "itemName": "Megashark",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Megashark"
+          },
+          {
+            "itemName": "Onyx Blaster",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Onyx_Blaster"
+          },
+          {
+            "itemName": "Phantom Phoenix",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Phantom_Phoenix"
+          },
+          {
+            "itemName": "Speed Blaster",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Speed_Blaster"
+          }
+        ],
+        "armor": [
+          {
+            "itemName": "Mythril armor",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Mythril_armor"
+          },
+          {
+            "itemName": "Orichalcum armor",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Orichalcum_armor"
+          }
+        ],
+        "accesories": [
+          {
+            "itemName": "Magic Quiver",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Magic_Quiver"
+          },
+          {
+            "itemName": "Ranger Emblem",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Ranger_Emblem"
+          }
+        ],
+        "extra": [
+          {
+            "itemName": "Ammo Reservation Potion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Ammo_Reservation_Potion"
+          },
+          {
+            "itemName": "Archery Potion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Archery_Potion"
+          },
+          {
+            "itemName": "Ammo Box",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Ammo_Box"
+          },
+          {
+            "itemName": "Cinder Arrow",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Cinder_Arrow"
+          },
+          {
+            "itemName": "Ichor Arrow",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Ichor_Arrow"
+          },
+          {
+            "itemName": "Jester's Arrow",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Jester%27s_Arrow"
+          },
+          {
+            "itemName": "Crystal Bullet",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Crystal_Bullet"
+          },
+          {
+            "itemName": "Exploding Bullet",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Exploding_Bullet"
+          },
+          {
+            "itemName": "High Velocity Bullet",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/High_Velocity_Bullet"
+          },
+          {
+            "itemName": "Ichor Bullet",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Ichor_Bullet"
+          },
+          {
+            "itemName": "Gel",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Gel"
+          }
+        ]
+      },
+      {
+        "class": "Magic\n",
+        "weapons": [
+          {
+            "itemName": "Belching Saxophone",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Belching_Saxophone"
+          },
+          {
+            "itemName": "Brimrose Staff",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Brimrose_Staff"
+          },
+          {
+            "itemName": "Miasma",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Miasma"
+          },
+          {
+            "itemName": "Sky Fracture",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Sky_Fracture"
+          },
+          {
+            "itemName": "Snowstorm Staff",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Snowstorm_Staff"
+          },
+          {
+            "itemName": "Tome of Infinite Wisdom",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Tome_of_Infinite_Wisdom"
+          },
+          {
+            "itemName": "Wyvern's Call",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Wyvern%27s_Call"
+          }
+        ],
+        "armor": [
+          {
+            "itemName": "Apprentice armor",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Apprentice_armor"
+          },
+          {
+            "itemName": "Mythril armor",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Mythril_armor"
+          },
+          {
+            "itemName": "Orichalcum armor",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Orichalcum_armor"
+          }
+        ],
+        "accesories": [
+          {
+            "itemName": "Arcane Flower",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Arcane_Flower"
+          },
+          {
+            "itemName": "Butterfly Wings",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Butterfly_Wings"
+          },
+          {
+            "itemName": "Permafrost's Concoction",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Permafrost%27s_Concoction"
+          },
+          {
+            "itemName": "Sorcerer Emblem",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Sorcerer_Emblem"
+          }
+        ],
+        "extra": [
+          {
+            "itemName": "Super Mana Potion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Super_Mana_Potion"
+          },
+          {
+            "itemName": "Magic Power Potion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Magic_Power_Potion"
+          },
+          {
+            "itemName": "Mana Regeneration Potion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Mana_Regeneration_Potion"
+          },
+          {
+            "itemName": "Crystal Ball",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Crystal_Ball"
+          }
+        ]
+      },
+      {
+        "class": "Summoning\n",
+        "weapons": [
+          {
+            "itemName": "Caustic Staff",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Caustic_Staff"
+          },
+          {
+            "itemName": "Deepsea Staff",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Deepsea_Staff"
+          },
+          {
+            "itemName": "Glacial Embrace",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Glacial_Embrace"
+          },
+          {
+            "itemName": "Igneous Exaltation",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Igneous_Exaltation"
+          },
+          {
+            "itemName": "Mounted Scanner",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Mounted_Scanner"
+          },
+          {
+            "itemName": "Sanguine Staff",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Sanguine_Staff"
+          },
+          {
+            "itemName": "Orthocera Shell",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Orthocera_Shell"
+          },
+          {
+            "itemName": "Cool Whip",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Cool_Whip"
+          },
+          {
+            "itemName": "Firecracker",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Firecracker"
+          }
+        ],
+        "armor": [
+          {
+            "itemName": "Spider armor",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Spider_armor"
+          }
+        ],
+        "accesories": [
+          {
+            "itemName": "The First Shadowflame",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/The_First_Shadowflame"
+          },
+          {
+            "itemName": "Jelly-Charged Battery",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Jelly-Charged_Battery"
+          },
+          {
+            "itemName": "Nuclear Fuel Rod",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Nuclear_Fuel_Rod"
+          },
+          {
+            "itemName": "Spirit Glyph",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Spirit_Glyph"
+          },
+          {
+            "itemName": "Summoner Emblem",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Summoner_Emblem"
+          }
+        ],
+        "extra": [
+          {
+            "itemName": "Flask of Ichor",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Flask_of_Ichor"
+          },
+          {
+            "itemName": "Summoning Potion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Summoning_Potion"
+          },
+          {
+            "itemName": "Bewitching Table",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Bewitching_Table"
+          },
+          {
+            "itemName": "War Table",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/War_Table"
+          }
+        ]
+      },
+      {
+        "class": "Rogue\n",
+        "weapons": [
+          {
+            "itemName": "Equanimity",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Equanimity"
+          },
+          {
+            "itemName": "Kelvin Catalyst",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Kelvin_Catalyst"
+          },
+          {
+            "itemName": "Scourge of the Seas",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Scourge_of_the_Seas"
+          },
+          {
+            "itemName": "Skyfin Bombers",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Skyfin_Bombers"
+          },
+          {
+            "itemName": "Stormfront Razor",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Stormfront_Razor"
+          },
+          {
+            "itemName": "Burning Strife",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Burning_Strife"
+          },
+          {
+            "itemName": "Equanimity",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Equanimity"
+          },
+          {
+            "itemName": "Frequency Manipulator",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Frequency_Manipulator"
+          },
+          {
+            "itemName": "Kelvin Catalyst",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Kelvin_Catalyst"
+          }
+        ],
+        "armor": [
+          {
+            "itemName": "Statigel armor",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Statigel_armor"
+          },
+          {
+            "itemName": "Titan Heart armor",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Titan_Heart_armor"
+          }
+        ],
+        "accesories": [
+          {
+            "itemName": "Rogue Emblem",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Rogue_Emblem"
+          },
+          {
+            "itemName": "Ruin Medallion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Ruin_Medallion"
+          },
+          {
+            "itemName": "Electrician's Glove",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Electrician%27s_Glove"
+          },
+          {
+            "itemName": "Mirage Mirror",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Mirage_Mirror"
+          },
+          {
+            "itemName": "Ruin Medallion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Ruin_Medallion"
+          },
+          {
+            "itemName": "Silencing Sheath",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Silencing_Sheath"
+          }
+        ],
+        "extra": [
+          {
+            "itemName": "Flask of Ichor",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Flask_of_Ichor"
+          },
+          {
+            "itemName": "Shadow Potion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Shadow_Potion"
+          }
+        ]
+      },
+      {
+        "class": "All Classes\n",
+        "weapons": [
+          {
+            "itemName": "Lunic Eye",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Lunic_Eye"
+          },
+          {
+            "itemName": "Rod of Discord",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Rod_of_Discord"
+          }
+        ],
+        "armor": [
+          {
+            "itemName": "Cirrus' Dress",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Cirrus%27_Dress"
+          },
+          {
+            "itemName": "Crystal Assassin armor",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Crystal_Assassin_armor"
+          },
+          {
+            "itemName": "Mollusk armor",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Mollusk_armor"
+          }
+        ],
+        "accesories": [
+          {
+            "itemName": "Amalgamated Brain",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Amalgamated_Brain"
+          },
+          {
+            "itemName": "Grand Gelatin",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Grand_Gelatin"
+          },
+          {
+            "itemName": "Stress Pills",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Stress_Pills"
+          },
+          {
+            "itemName": "Ankh Shield",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Ankh_Shield"
+          },
+          {
+            "itemName": "Charm of Myths",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Charm_of_Myths"
+          },
+          {
+            "itemName": "Honey Dew",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Honey_Dew"
+          },
+          {
+            "itemName": "Radiant Ooze",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Radiant_Ooze"
+          },
+          {
+            "itemName": "Star Veil",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Star_Veil"
+          },
+          {
+            "itemName": "Ursa Sergeant",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Ursa_Sergeant"
+          },
+          {
+            "itemName": "Bat Wings",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Bat_Wings"
+          },
+          {
+            "itemName": "Bee Wings",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Bee_Wings"
+          },
+          {
+            "itemName": "Evasion Scarf",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Evasion_Scarf"
+          },
+          {
+            "itemName": "Deep Diver",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Deep_Diver"
+          },
+          {
+            "itemName": "Fairy Boots",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Fairy_Boots"
+          },
+          {
+            "itemName": "Terraspark Boots",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Terraspark_Boots"
+          },
+          {
+            "itemName": "Moon Stone",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Moon_Stone"
+          },
+          {
+            "itemName": "Putrid Scent",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Putrid_Scent"
+          },
+          {
+            "itemName": "Slagsplitter Pauldron",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Slagsplitter_Pauldron"
+          }
+        ],
+        "extra": [
+          {
+            "itemName": "Greater Healing Potion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Greater_Healing_Potion"
+          },
+          {
+            "itemName": "Candles",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Candles#Purchased"
+          },
+          {
+            "itemName": "Burger",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Burger"
+          },
+          {
+            "itemName": "Inferno Potion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Inferno_Potion"
+          },
+          {
+            "itemName": "Potion of Omniscience",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Potion_of_Omniscience"
+          },
+          {
+            "itemName": "Tesla Potion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Tesla_Potion"
+          },
+          {
+            "itemName": "Endurance Potion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Endurance_Potion"
+          },
+          {
+            "itemName": "Heartreach Potion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Heartreach_Potion"
+          },
+          {
+            "itemName": "Ironskin Potion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Ironskin_Potion"
+          },
+          {
+            "itemName": "Lifeforce Potion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Lifeforce_Potion"
+          },
+          {
+            "itemName": "Photosynthesis Potion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Photosynthesis_Potion"
+          },
+          {
+            "itemName": "Regeneration Potion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Regeneration_Potion"
+          },
+          {
+            "itemName": "Slice of Cake",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Slice_of_Cake"
+          },
+          {
+            "itemName": "Soaring Potion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Soaring_Potion"
+          },
+          {
+            "itemName": "Swiftness Potion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Swiftness_Potion"
+          },
+          {
+            "itemName": "Fabsol's Vodka",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Fabsol%27s_Vodka"
+          },
+          {
+            "itemName": "Rage Potion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Rage_Potion"
+          },
+          {
+            "itemName": "Wrath Potion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Wrath_Potion"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "gameState": "Post-Mechanical_Boss_2",
+    "classSetups": [
+      {
+        "class": "Melee\n",
+        "weapons": [
+          {
+            "itemName": "Brimstone Sword",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Brimstone_Sword"
+          },
+          {
+            "itemName": "Darklight Greatsword",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Darklight_Greatsword"
+          },
+          {
+            "itemName": "Forsaken Saber",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Forsaken_Saber"
+          },
+          {
+            "itemName": "Majestic Guard",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Majestic_Guard"
+          },
+          {
+            "itemName": "Shimmerspark",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Shimmerspark"
+          },
+          {
+            "itemName": "Starnight Lance",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Starnight_Lance"
+          },
+          {
+            "itemName": "Submarine Shocker",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Submarine_Shocker"
+          }
+        ],
+        "armor": [
+          {
+            "itemName": "Adamantite armor",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Adamantite_armor"
+          },
+          {
+            "itemName": "Mythril armor",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Mythril_armor"
+          }
+        ],
+        "accesories": [
+          {
+            "itemName": "Berserker's Glove",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Berserker%27s_Glove"
+          },
+          {
+            "itemName": "Power Glove",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Power_Glove"
+          },
+          {
+            "itemName": "Bloody Worm Scarf",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Bloody_Worm_Scarf"
+          },
+          {
+            "itemName": "Flame Wings",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Flame_Wings"
+          },
+          {
+            "itemName": "Warrior Emblem",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Warrior_Emblem"
+          },
+          {
+            "itemName": "Yoyo Bag",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Yoyo_Bag"
+          }
+        ],
+        "extra": [
+          {
+            "itemName": "Flask of Ichor",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Flask_of_Ichor"
+          },
+          {
+            "itemName": "Ale",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Ale"
+          },
+          {
+            "itemName": "Sharpening Station",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Sharpening_Station"
+          }
+        ]
+      },
+      {
+        "class": "Ranged\n",
+        "weapons": [
+          {
+            "itemName": "Adamantite Particle Accelerator",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Adamantite_Particle_Accelerator"
+          },
+          {
+            "itemName": "Barinautical",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Barinautical"
+          },
+          {
+            "itemName": "Darkecho Greatbow",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Darkecho_Greatbow"
+          },
+          {
+            "itemName": "Hellborn",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Hellborn"
+          },
+          {
+            "itemName": "Megashark",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Megashark"
+          },
+          {
+            "itemName": "Phantom Phoenix",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Phantom_Phoenix"
+          },
+          {
+            "itemName": "Titanium Railgun",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Titanium_Railgun"
+          }
+        ],
+        "armor": [
+          {
+            "itemName": "Adamantite armor",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Adamantite_armor"
+          },
+          {
+            "itemName": "Mythril armor",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Mythril_armor"
+          }
+        ],
+        "accesories": [
+          {
+            "itemName": "Magic Quiver",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Magic_Quiver"
+          },
+          {
+            "itemName": "Ranger Emblem",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Ranger_Emblem"
+          }
+        ],
+        "extra": [
+          {
+            "itemName": "Ammo Reservation Potion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Ammo_Reservation_Potion"
+          },
+          {
+            "itemName": "Archery Potion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Archery_Potion"
+          },
+          {
+            "itemName": "Ammo Box",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Ammo_Box"
+          },
+          {
+            "itemName": "Cinder Arrow",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Cinder_Arrow"
+          },
+          {
+            "itemName": "Holy Arrow",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Holy_Arrow"
+          },
+          {
+            "itemName": "Ichor Arrow",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Ichor_Arrow"
+          },
+          {
+            "itemName": "Jester's Arrow",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Jester%27s_Arrow"
+          },
+          {
+            "itemName": "Verium Bolt",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Verium_Bolt"
+          },
+          {
+            "itemName": "Crystal Bullet",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Crystal_Bullet"
+          },
+          {
+            "itemName": "Exploding Bullet",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Exploding_Bullet"
+          },
+          {
+            "itemName": "High Velocity Bullet",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/High_Velocity_Bullet"
+          },
+          {
+            "itemName": "Ichor Bullet",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Ichor_Bullet"
+          }
+        ]
+      },
+      {
+        "class": "Magic\n",
+        "weapons": [
+          {
+            "itemName": "Brimrose Staff",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Brimrose_Staff"
+          },
+          {
+            "itemName": "Death Valley Duster",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Death_Valley_Duster"
+          },
+          {
+            "itemName": "Miasma",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Miasma"
+          },
+          {
+            "itemName": "Seething Discharge",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Seething_Discharge"
+          },
+          {
+            "itemName": "Shadecrystal Barrage",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Shadecrystal_Barrage"
+          },
+          {
+            "itemName": "Spirit Flame",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Spirit_Flame"
+          },
+          {
+            "itemName": "Wyvern's Call",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Wyvern%27s_Call"
+          }
+        ],
+        "armor": [
+          {
+            "itemName": "Adamantite armor",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Adamantite_armor"
+          }
+        ],
+        "accesories": [
+          {
+            "itemName": "Arcane Flower",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Arcane_Flower"
+          },
+          {
+            "itemName": "Butterfly Wings",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Butterfly_Wings"
+          },
+          {
+            "itemName": "Permafrost's Concoction",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Permafrost%27s_Concoction"
+          },
+          {
+            "itemName": "Sorcerer Emblem",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Sorcerer_Emblem"
+          }
+        ],
+        "extra": [
+          {
+            "itemName": "Super Mana Potion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Super_Mana_Potion"
+          },
+          {
+            "itemName": "Magic Power Potion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Magic_Power_Potion"
+          },
+          {
+            "itemName": "Mana Regeneration Potion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Mana_Regeneration_Potion"
+          },
+          {
+            "itemName": "Crystal Ball",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Crystal_Ball"
+          }
+        ]
+      },
+      {
+        "class": "Summoning\n",
+        "weapons": [
+          {
+            "itemName": "Caustic Staff",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Caustic_Staff"
+          },
+          {
+            "itemName": "Daedalus Golem Staff",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Daedalus_Golem_Staff"
+          },
+          {
+            "itemName": "Deepsea Staff",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Deepsea_Staff"
+          },
+          {
+            "itemName": "Dormant Brimseeker",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Dormant_Brimseeker"
+          },
+          {
+            "itemName": "Mounted Scanner",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Mounted_Scanner"
+          },
+          {
+            "itemName": "Orthocera Shell",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Orthocera_Shell"
+          },
+          {
+            "itemName": "Cool Whip",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Cool_Whip"
+          },
+          {
+            "itemName": "Firecracker",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Firecracker"
+          }
+        ],
+        "armor": [
+          {
+            "itemName": "Daedalus armor",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Daedalus_armor"
+          }
+        ],
+        "accesories": [
+          {
+            "itemName": "The First Shadowflame",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/The_First_Shadowflame"
+          },
+          {
+            "itemName": "Jelly-Charged Battery",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Jelly-Charged_Battery"
+          },
+          {
+            "itemName": "Nuclear Fuel Rod",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Nuclear_Fuel_Rod"
+          },
+          {
+            "itemName": "Spirit Glyph",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Spirit_Glyph"
+          },
+          {
+            "itemName": "Summoner Emblem",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Summoner_Emblem"
+          }
+        ],
+        "extra": [
+          {
+            "itemName": "Flask of Ichor",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Flask_of_Ichor"
+          },
+          {
+            "itemName": "Summoning Potion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Summoning_Potion"
+          },
+          {
+            "itemName": "Bewitching Table",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Bewitching_Table"
+          },
+          {
+            "itemName": "War Table",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/War_Table"
+          }
+        ]
+      },
+      {
+        "class": "Rogue\n",
+        "weapons": [
+          {
+            "itemName": "Adamantite Throwing Axe",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Adamantite_Throwing_Axe"
+          },
+          {
+            "itemName": "Desecrated Water",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Desecrated_Water"
+          },
+          {
+            "itemName": "Kelvin Catalyst",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Kelvin_Catalyst"
+          },
+          {
+            "itemName": "Skyfin Bombers",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Skyfin_Bombers"
+          },
+          {
+            "itemName": "Stormfront Razor",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Stormfront_Razor"
+          },
+          {
+            "itemName": "Adamantite Throwing Axe",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Adamantite_Throwing_Axe"
+          },
+          {
+            "itemName": "Desecrated Water",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Desecrated_Water"
+          },
+          {
+            "itemName": "Frequency Manipulator",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Frequency_Manipulator"
+          },
+          {
+            "itemName": "Kelvin Catalyst",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Kelvin_Catalyst"
+          },
+          {
+            "itemName": "Titanium Shuriken",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Titanium_Shuriken"
+          }
+        ],
+        "armor": [
+          {
+            "itemName": "Daedalus armor",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Daedalus_armor"
+          }
+        ],
+        "accesories": [
+          {
+            "itemName": "Rogue Emblem",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Rogue_Emblem"
+          },
+          {
+            "itemName": "Ruin Medallion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Ruin_Medallion"
+          },
+          {
+            "itemName": "Electrician's Glove",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Electrician%27s_Glove"
+          },
+          {
+            "itemName": "Mirage Mirror",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Mirage_Mirror"
+          },
+          {
+            "itemName": "Ruin Medallion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Ruin_Medallion"
+          },
+          {
+            "itemName": "Silencing Sheath",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Silencing_Sheath"
+          }
+        ],
+        "extra": [
+          {
+            "itemName": "Flask of Ichor",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Flask_of_Ichor"
+          },
+          {
+            "itemName": "Shadow Potion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Shadow_Potion"
+          }
+        ]
+      },
+      {
+        "class": "All Classes\n",
+        "weapons": [
+          {
+            "itemName": "Lunic Eye",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Lunic_Eye"
+          },
+          {
+            "itemName": "Rod of Discord",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Rod_of_Discord"
+          }
+        ],
+        "armor": [
+          {
+            "itemName": "Cirrus' Dress",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Cirrus%27_Dress"
+          },
+          {
+            "itemName": "Crystal Assassin armor",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Crystal_Assassin_armor"
+          },
+          {
+            "itemName": "Mollusk armor",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Mollusk_armor"
+          }
+        ],
+        "accesories": [
+          {
+            "itemName": "Amalgamated Brain",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Amalgamated_Brain"
+          },
+          {
+            "itemName": "Grand Gelatin",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Grand_Gelatin"
+          },
+          {
+            "itemName": "Stress Pills",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Stress_Pills"
+          },
+          {
+            "itemName": "Ankh Shield",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Ankh_Shield"
+          },
+          {
+            "itemName": "Charm of Myths",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Charm_of_Myths"
+          },
+          {
+            "itemName": "Honey Dew",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Honey_Dew"
+          },
+          {
+            "itemName": "Radiant Ooze",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Radiant_Ooze"
+          },
+          {
+            "itemName": "Star Veil",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Star_Veil"
+          },
+          {
+            "itemName": "Ursa Sergeant",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Ursa_Sergeant"
+          },
+          {
+            "itemName": "Bat Wings",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Bat_Wings"
+          },
+          {
+            "itemName": "Bee Wings",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Bee_Wings"
+          },
+          {
+            "itemName": "Evasion Scarf",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Evasion_Scarf"
+          },
+          {
+            "itemName": "Ornate Shield",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Ornate_Shield"
+          },
+          {
+            "itemName": "Fairy Boots",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Fairy_Boots"
+          },
+          {
+            "itemName": "Terraspark Boots",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Terraspark_Boots"
+          },
+          {
+            "itemName": "Moon Stone",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Moon_Stone"
+          },
+          {
+            "itemName": "Putrid Scent",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Putrid_Scent"
+          },
+          {
+            "itemName": "Slagsplitter Pauldron",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Slagsplitter_Pauldron"
+          }
+        ],
+        "extra": [
+          {
+            "itemName": "Greater Healing Potion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Greater_Healing_Potion"
+          },
+          {
+            "itemName": "Candles",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Candles#Purchased"
+          },
+          {
+            "itemName": "Burger",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Burger"
+          },
+          {
+            "itemName": "Inferno Potion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Inferno_Potion"
+          },
+          {
+            "itemName": "Potion of Omniscience",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Potion_of_Omniscience"
+          },
+          {
+            "itemName": "Tesla Potion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Tesla_Potion"
+          },
+          {
+            "itemName": "Endurance Potion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Endurance_Potion"
+          },
+          {
+            "itemName": "Heartreach Potion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Heartreach_Potion"
+          },
+          {
+            "itemName": "Ironskin Potion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Ironskin_Potion"
+          },
+          {
+            "itemName": "Lifeforce Potion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Lifeforce_Potion"
+          },
+          {
+            "itemName": "Photosynthesis Potion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Photosynthesis_Potion"
+          },
+          {
+            "itemName": "Regeneration Potion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Regeneration_Potion"
+          },
+          {
+            "itemName": "Slice of Cake",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Slice_of_Cake"
+          },
+          {
+            "itemName": "Soaring Potion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Soaring_Potion"
+          },
+          {
+            "itemName": "Swiftness Potion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Swiftness_Potion"
+          },
+          {
+            "itemName": "Fabsol's Vodka",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Fabsol%27s_Vodka"
+          },
+          {
+            "itemName": "Rage Potion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Rage_Potion"
+          },
+          {
+            "itemName": "Wrath Potion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Wrath_Potion"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "gameState": "Pre-Plantera",
+    "classSetups": [
+      {
+        "class": "Melee\n",
+        "weapons": [
+          {
+            "itemName": "Brimlash",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Brimlash"
+          },
+          {
+            "itemName": "Darklight Greatsword",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Darklight_Greatsword"
+          },
+          {
+            "itemName": "Light Disc",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Light_Disc"
+          },
+          {
+            "itemName": "Majestic Guard",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Majestic_Guard"
+          },
+          {
+            "itemName": "Oblivion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Oblivion"
+          },
+          {
+            "itemName": "Pwnagehammer",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Pwnagehammer"
+          },
+          {
+            "itemName": "True Night's Edge",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/True_Night%27s_Edge"
+          }
+        ],
+        "armor": [
+          {
+            "itemName": "Adamantite armor",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Adamantite_armor"
+          },
+          {
+            "itemName": "Chlorophyte armor",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Chlorophyte_armor"
+          },
+          {
+            "itemName": "Hallowed armor",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Hallowed_armor"
+          },
+          {
+            "itemName": "Turtle armor",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Turtle_armor"
+          }
+        ],
+        "accesories": [
+          {
+            "itemName": "Bloody Worm Scarf",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Bloody_Worm_Scarf"
+          },
+          {
+            "itemName": "Flame Wings",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Flame_Wings"
+          },
+          {
+            "itemName": "Mechanical Glove",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Mechanical_Glove"
+          },
+          {
+            "itemName": "Yoyo Bag",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Yoyo_Bag"
+          }
+        ],
+        "extra": [
+          {
+            "itemName": "Flask of Ichor",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Flask_of_Ichor"
+          },
+          {
+            "itemName": "Ale",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Ale"
+          },
+          {
+            "itemName": "Sharpening Station",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Sharpening_Station"
+          }
+        ]
+      },
+      {
+        "class": "Ranged\n",
+        "weapons": [
+          {
+            "itemName": "Animosity",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Animosity"
+          },
+          {
+            "itemName": "Chlorophyte Shotbow",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Chlorophyte_Shotbow"
+          },
+          {
+            "itemName": "Hallowed Repeater",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Hallowed_Repeater"
+          },
+          {
+            "itemName": "Havoc's Breath",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Havoc%27s_Breath"
+          },
+          {
+            "itemName": "Hellborn",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Hellborn"
+          },
+          {
+            "itemName": "Sea's Searing",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Sea%27s_Searing"
+          }
+        ],
+        "armor": [
+          {
+            "itemName": "Adamantite armor",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Adamantite_armor"
+          },
+          {
+            "itemName": "Chlorophyte armor",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Chlorophyte_armor"
+          },
+          {
+            "itemName": "Hallowed armor",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Hallowed_armor"
+          }
+        ],
+        "accesories": [
+          {
+            "itemName": "Magic Quiver",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Magic_Quiver"
+          },
+          {
+            "itemName": "Ranger Emblem",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Ranger_Emblem"
+          }
+        ],
+        "extra": [
+          {
+            "itemName": "Ammo Reservation Potion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Ammo_Reservation_Potion"
+          },
+          {
+            "itemName": "Archery Potion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Archery_Potion"
+          },
+          {
+            "itemName": "Ammo Box",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Ammo_Box"
+          },
+          {
+            "itemName": "Cinder Arrow",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Cinder_Arrow"
+          },
+          {
+            "itemName": "Holy Arrow",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Holy_Arrow"
+          },
+          {
+            "itemName": "Ichor Arrow",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Ichor_Arrow"
+          },
+          {
+            "itemName": "Verium Bolt",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Verium_Bolt"
+          },
+          {
+            "itemName": "Chlorophyte Bullet",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Chlorophyte_Bullet"
+          },
+          {
+            "itemName": "Hallow-Point Round",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Hallow-Point_Round"
+          },
+          {
+            "itemName": "Ichor Bullet",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Ichor_Bullet"
+          },
+          {
+            "itemName": "Gel",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Gel"
+          }
+        ]
+      },
+      {
+        "class": "Magic\n",
+        "weapons": [
+          {
+            "itemName": "Arctic Bear Paw",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Arctic_Bear_Paw"
+          },
+          {
+            "itemName": "Gleaming Magnolia",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Gleaming_Magnolia"
+          },
+          {
+            "itemName": "Lashes of Chaos",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Lashes_of_Chaos"
+          },
+          {
+            "itemName": "Seething Discharge",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Seething_Discharge"
+          },
+          {
+            "itemName": "Shadecrystal Barrage",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Shadecrystal_Barrage"
+          },
+          {
+            "itemName": "Valkyrie Ray",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Valkyrie_Ray"
+          }
+        ],
+        "armor": [
+          {
+            "itemName": "Adamantite armor",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Adamantite_armor"
+          },
+          {
+            "itemName": "Brimflame armor",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Brimflame_armor"
+          },
+          {
+            "itemName": "Hallowed armor",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Hallowed_armor"
+          }
+        ],
+        "accesories": [
+          {
+            "itemName": "Arcane Flower",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Arcane_Flower"
+          },
+          {
+            "itemName": "Butterfly Wings",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Butterfly_Wings"
+          },
+          {
+            "itemName": "Celestial Emblem",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Celestial_Emblem"
+          },
+          {
+            "itemName": "Permafrost's Concoction",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Permafrost%27s_Concoction"
+          },
+          {
+            "itemName": "Sorcerer Emblem",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Sorcerer_Emblem"
+          }
+        ],
+        "extra": [
+          {
+            "itemName": "Super Mana Potion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Super_Mana_Potion"
+          },
+          {
+            "itemName": "White Wine",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/White_Wine"
+          },
+          {
+            "itemName": "Magic Power Potion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Magic_Power_Potion"
+          },
+          {
+            "itemName": "Mana Regeneration Potion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Mana_Regeneration_Potion"
+          },
+          {
+            "itemName": "Crystal Ball",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Crystal_Ball"
+          }
+        ]
+      },
+      {
+        "class": "Summoning\n",
+        "weapons": [
+          {
+            "itemName": "Daedalus Golem Staff",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Daedalus_Golem_Staff"
+          },
+          {
+            "itemName": "Dormant Brimseeker",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Dormant_Brimseeker"
+          },
+          {
+            "itemName": "Entropy's Vigil",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Entropy%27s_Vigil"
+          },
+          {
+            "itemName": "Vengeful Sun Staff",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Vengeful_Sun_Staff"
+          },
+          {
+            "itemName": "Cryogenic Staff",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Cryogenic_Staff"
+          },
+          {
+            "itemName": "Orthocera Shell",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Orthocera_Shell"
+          },
+          {
+            "itemName": "Durendal",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Durendal"
+          }
+        ],
+        "armor": [
+          {
+            "itemName": "Daedalus armor",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Daedalus_armor"
+          },
+          {
+            "itemName": "Hallowed armor",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Hallowed_armor"
+          },
+          {
+            "itemName": "Squire armor",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Squire_armor"
+          }
+        ],
+        "accesories": [
+          {
+            "itemName": "The First Shadowflame",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/The_First_Shadowflame"
+          },
+          {
+            "itemName": "Hallowed Rune",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Hallowed_Rune"
+          },
+          {
+            "itemName": "Jelly-Charged Battery",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Jelly-Charged_Battery"
+          },
+          {
+            "itemName": "Nuclear Fuel Rod",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Nuclear_Fuel_Rod"
+          },
+          {
+            "itemName": "Summoner Emblem",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Summoner_Emblem"
+          }
+        ],
+        "extra": [
+          {
+            "itemName": "Flask of Ichor",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Flask_of_Ichor"
+          },
+          {
+            "itemName": "Summoning Potion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Summoning_Potion"
+          },
+          {
+            "itemName": "Bewitching Table",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Bewitching_Table"
+          },
+          {
+            "itemName": "War Table",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/War_Table"
+          }
+        ]
+      },
+      {
+        "class": "Rogue\n",
+        "weapons": [
+          {
+            "itemName": "Deep Wounder",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Deep_Wounder"
+          },
+          {
+            "itemName": "Desecrated Water",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Desecrated_Water"
+          },
+          {
+            "itemName": "Spear of Destiny",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Spear_of_Destiny"
+          },
+          {
+            "itemName": "Totality Breakers",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Totality_Breakers"
+          },
+          {
+            "itemName": "Consecrated Water",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Consecrated_Water"
+          },
+          {
+            "itemName": "Crushsaw Crasher",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Crushsaw_Crasher"
+          },
+          {
+            "itemName": "Desecrated Water",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Desecrated_Water"
+          },
+          {
+            "itemName": "Frosty Flare",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Frosty_Flare"
+          },
+          {
+            "itemName": "Terror Talons",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Terror_Talons"
+          }
+        ],
+        "armor": [
+          {
+            "itemName": "Daedalus armor",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Daedalus_armor"
+          },
+          {
+            "itemName": "Umbraphile armor",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Umbraphile_armor"
+          }
+        ],
+        "accesories": [
+          {
+            "itemName": "Ruin Medallion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Ruin_Medallion"
+          },
+          {
+            "itemName": "Vampiric Talisman",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Vampiric_Talisman"
+          },
+          {
+            "itemName": "Electrician's Glove",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Electrician%27s_Glove"
+          },
+          {
+            "itemName": "Mirage Mirror",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Mirage_Mirror"
+          },
+          {
+            "itemName": "Ruin Medallion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Ruin_Medallion"
+          }
+        ],
+        "extra": [
+          {
+            "itemName": "Flask of Ichor",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Flask_of_Ichor"
+          },
+          {
+            "itemName": "Shadow Potion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Shadow_Potion"
+          }
+        ]
+      },
+      {
+        "class": "All Classes\n",
+        "weapons": [
+          {
+            "itemName": "Lunic Eye",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Lunic_Eye"
+          },
+          {
+            "itemName": "Rod of Discord",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Rod_of_Discord"
+          }
+        ],
+        "armor": [
+          {
+            "itemName": "Cirrus' Dress",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Cirrus%27_Dress"
+          }
+        ],
+        "accesories": [
+          {
+            "itemName": "Amalgamated Brain",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Amalgamated_Brain"
+          },
+          {
+            "itemName": "Grand Gelatin",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Grand_Gelatin"
+          },
+          {
+            "itemName": "Stress Pills",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Stress_Pills"
+          },
+          {
+            "itemName": "Ankh Shield",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Ankh_Shield"
+          },
+          {
+            "itemName": "Charm of Myths",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Charm_of_Myths"
+          },
+          {
+            "itemName": "Honey Dew",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Honey_Dew"
+          },
+          {
+            "itemName": "Radiant Ooze",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Radiant_Ooze"
+          },
+          {
+            "itemName": "Star Veil",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Star_Veil"
+          },
+          {
+            "itemName": "Ursa Sergeant",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Ursa_Sergeant"
+          },
+          {
+            "itemName": "Bat Wings",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Bat_Wings"
+          },
+          {
+            "itemName": "Bee Wings",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Bee_Wings"
+          },
+          {
+            "itemName": "Angel Treads",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Angel_Treads"
+          },
+          {
+            "itemName": "Fairy Boots",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Fairy_Boots"
+          },
+          {
+            "itemName": "Evasion Scarf",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Evasion_Scarf"
+          },
+          {
+            "itemName": "Ornate Shield",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Ornate_Shield"
+          },
+          {
+            "itemName": "Moon Stone",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Moon_Stone"
+          },
+          {
+            "itemName": "Putrid Scent",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Putrid_Scent"
+          }
+        ],
+        "extra": [
+          {
+            "itemName": "Greater Healing Potion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Greater_Healing_Potion"
+          },
+          {
+            "itemName": "Candles",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Candles#Purchased"
+          },
+          {
+            "itemName": "Burger",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Burger"
+          },
+          {
+            "itemName": "Inferno Potion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Inferno_Potion"
+          },
+          {
+            "itemName": "Potion of Omniscience",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Potion_of_Omniscience"
+          },
+          {
+            "itemName": "Tesla Potion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Tesla_Potion"
+          },
+          {
+            "itemName": "Endurance Potion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Endurance_Potion"
+          },
+          {
+            "itemName": "Heartreach Potion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Heartreach_Potion"
+          },
+          {
+            "itemName": "Ironskin Potion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Ironskin_Potion"
+          },
+          {
+            "itemName": "Lifeforce Potion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Lifeforce_Potion"
+          },
+          {
+            "itemName": "Photosynthesis Potion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Photosynthesis_Potion"
+          },
+          {
+            "itemName": "Regeneration Potion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Regeneration_Potion"
+          },
+          {
+            "itemName": "Slice of Cake",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Slice_of_Cake"
+          },
+          {
+            "itemName": "Soaring Potion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Soaring_Potion"
+          },
+          {
+            "itemName": "Swiftness Potion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Swiftness_Potion"
+          },
+          {
+            "itemName": "Fabsol's Vodka",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Fabsol%27s_Vodka"
+          },
+          {
+            "itemName": "Rage Potion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Rage_Potion"
+          },
+          {
+            "itemName": "Wrath Potion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Wrath_Potion"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "gameState": "Pre-Golem",
+    "classSetups": [
+      {
+        "class": "Melee\n",
+        "weapons": [
+          {
+            "itemName": "Abyss Blade",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Abyss_Blade"
+          },
+          {
+            "itemName": "Ark of the Ancients",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Ark_of_the_Ancients"
+          },
+          {
+            "itemName": "Blighted Cleaver",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Blighted_Cleaver"
+          },
+          {
+            "itemName": "Butcher's Chainsaw",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Butcher%27s_Chainsaw"
+          },
+          {
+            "itemName": "Quagmire",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Quagmire"
+          },
+          {
+            "itemName": "Terra Blade",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Terra_Blade"
+          },
+          {
+            "itemName": "Vampire Knives",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Vampire_Knives"
+          }
+        ],
+        "armor": [
+          {
+            "itemName": "Adamantite armor",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Adamantite_armor"
+          },
+          {
+            "itemName": "Chlorophyte armor",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Chlorophyte_armor"
+          },
+          {
+            "itemName": "Hallowed armor",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Hallowed_armor"
+          }
+        ],
+        "accesories": [
+          {
+            "itemName": "Bloody Worm Scarf",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Bloody_Worm_Scarf"
+          },
+          {
+            "itemName": "Flame Wings",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Flame_Wings"
+          },
+          {
+            "itemName": "Mechanical Glove",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Mechanical_Glove"
+          },
+          {
+            "itemName": "Yoyo Bag",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Yoyo_Bag"
+          }
+        ],
+        "extra": [
+          {
+            "itemName": "Flask of Crumbling",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Flask_of_Crumbling"
+          },
+          {
+            "itemName": "Ale",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Ale"
+          },
+          {
+            "itemName": "Sharpening Station",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Sharpening_Station"
+          }
+        ]
+      },
+      {
+        "class": "Ranged\n",
+        "weapons": [
+          {
+            "itemName": "Blossom Flux",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Blossom_Flux"
+          },
+          {
+            "itemName": "Flak Kraken",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Flak_Kraken"
+          },
+          {
+            "itemName": "Hydra",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Hydra"
+          },
+          {
+            "itemName": "Marksman Bow",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Marksman_Bow"
+          },
+          {
+            "itemName": "Piranha Gun",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Piranha_Gun"
+          },
+          {
+            "itemName": "Vernal Bolter",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Vernal_Bolter"
+          },
+          {
+            "itemName": "Wildfire Bloom",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Wildfire_Bloom"
+          }
+        ],
+        "armor": [
+          {
+            "itemName": "Hallowed armor",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Hallowed_armor"
+          },
+          {
+            "itemName": "Shroomite armor",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Shroomite_armor"
+          }
+        ],
+        "accesories": [
+          {
+            "itemName": "Deadshot Brooch",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Deadshot_Brooch"
+          },
+          {
+            "itemName": "Hoverboard",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Hoverboard"
+          },
+          {
+            "itemName": "Ranger Emblem",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Ranger_Emblem"
+          }
+        ],
+        "extra": [
+          {
+            "itemName": "Ammo Reservation Potion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Ammo_Reservation_Potion"
+          },
+          {
+            "itemName": "Archery Potion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Archery_Potion"
+          },
+          {
+            "itemName": "Ammo Box",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Ammo_Box"
+          },
+          {
+            "itemName": "Chlorophyte Arrow",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Chlorophyte_Arrow"
+          },
+          {
+            "itemName": "Sprouting Arrow",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Sprouting_Arrow"
+          },
+          {
+            "itemName": "Venom Arrow",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Venom_Arrow"
+          },
+          {
+            "itemName": "Venom Bullet",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Venom_Bullet"
+          },
+          {
+            "itemName": "Rocket III",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Rocket_III"
+          },
+          {
+            "itemName": "Gel",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Gel"
+          }
+        ]
+      },
+      {
+        "class": "Magic\n",
+        "weapons": [
+          {
+            "itemName": "Astralachnea Staff",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Astralachnea_Staff"
+          },
+          {
+            "itemName": "Atlantis",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Atlantis"
+          },
+          {
+            "itemName": "Everglade Spray",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Everglade_Spray"
+          },
+          {
+            "itemName": "Inferno Fork",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Inferno_Fork"
+          },
+          {
+            "itemName": "Photosynthesis",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Photosynthesis"
+          },
+          {
+            "itemName": "Shifting Sands",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Shifting_Sands"
+          },
+          {
+            "itemName": "Wrath of the Ancients",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Wrath_of_the_Ancients"
+          }
+        ],
+        "armor": [
+          {
+            "itemName": "Brimflame armor",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Brimflame_armor"
+          },
+          {
+            "itemName": "Hallowed armor",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Hallowed_armor"
+          },
+          {
+            "itemName": "Spectre armor",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Spectre_armor"
+          }
+        ],
+        "accesories": [
+          {
+            "itemName": "Arcane Flower",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Arcane_Flower"
+          },
+          {
+            "itemName": "Butterfly Wings",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Butterfly_Wings"
+          },
+          {
+            "itemName": "Celestial Emblem",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Celestial_Emblem"
+          },
+          {
+            "itemName": "Permafrost's Concoction",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Permafrost%27s_Concoction"
+          },
+          {
+            "itemName": "Sorcerer Emblem",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Sorcerer_Emblem"
+          },
+          {
+            "itemName": "Spectre Wings",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Spectre_Wings"
+          }
+        ],
+        "extra": [
+          {
+            "itemName": "Super Mana Potion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Super_Mana_Potion"
+          },
+          {
+            "itemName": "White Wine",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/White_Wine"
+          },
+          {
+            "itemName": "Magic Power Potion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Magic_Power_Potion"
+          },
+          {
+            "itemName": "Mana Regeneration Potion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Mana_Regeneration_Potion"
+          },
+          {
+            "itemName": "Star Beam Rye",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Star_Beam_Rye"
+          },
+          {
+            "itemName": "Crystal Ball",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Crystal_Ball"
+          }
+        ]
+      },
+      {
+        "class": "Summoning\n",
+        "weapons": [
+          {
+            "itemName": "Gastric Belcher Staff",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Gastric_Belcher_Staff"
+          },
+          {
+            "itemName": "Plantation Staff",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Plantation_Staff"
+          },
+          {
+            "itemName": "Sand Sharknado Staff",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Sand_Sharknado_Staff"
+          },
+          {
+            "itemName": "Vengeful Sun Staff",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Vengeful_Sun_Staff"
+          },
+          {
+            "itemName": "Cryogenic Staff",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Cryogenic_Staff"
+          },
+          {
+            "itemName": "Dreadmine Staff",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Dreadmine_Staff"
+          },
+          {
+            "itemName": "Hive Pod",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Hive_Pod"
+          },
+          {
+            "itemName": "Borealis Bomber",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Borealis_Bomber"
+          },
+          {
+            "itemName": "Morning Star",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Morning_Star"
+          }
+        ],
+        "armor": [
+          {
+            "itemName": "Fathom Swarmer armor",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Fathom_Swarmer_armor"
+          },
+          {
+            "itemName": "Hallowed armor",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Hallowed_armor"
+          },
+          {
+            "itemName": "Tiki armor",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Tiki_armor"
+          }
+        ],
+        "accesories": [
+          {
+            "itemName": "Hallowed Rune",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Hallowed_Rune"
+          },
+          {
+            "itemName": "Jelly-Charged Battery",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Jelly-Charged_Battery"
+          },
+          {
+            "itemName": "Leaf Wings",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Leaf_Wings"
+          },
+          {
+            "itemName": "Nuclear Fuel Rod",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Nuclear_Fuel_Rod"
+          },
+          {
+            "itemName": "Starbuster Core",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Starbuster_Core"
+          }
+        ],
+        "extra": [
+          {
+            "itemName": "Flask of Crumbling",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Flask_of_Crumbling"
+          },
+          {
+            "itemName": "Summoning Potion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Summoning_Potion"
+          },
+          {
+            "itemName": "Bewitching Table",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Bewitching_Table"
+          },
+          {
+            "itemName": "War Table",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/War_Table"
+          }
+        ]
+      },
+      {
+        "class": "Rogue\n",
+        "weapons": [
+          {
+            "itemName": "Apoctolith",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Apoctolith"
+          },
+          {
+            "itemName": "Auroradical Throw",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Auroradical_Throw"
+          },
+          {
+            "itemName": "Brackish Flask",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Brackish_Flask"
+          },
+          {
+            "itemName": "Crushsaw Crasher",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Crushsaw_Crasher"
+          },
+          {
+            "itemName": "Apoctolith",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Apoctolith"
+          },
+          {
+            "itemName": "Crushsaw Crasher",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Crushsaw_Crasher"
+          },
+          {
+            "itemName": "Defective Sphere",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Defective_Sphere"
+          },
+          {
+            "itemName": "Heavenfallen Stardisk",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Heavenfallen_Stardisk"
+          },
+          {
+            "itemName": "Stellar Knife",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Stellar_Knife"
+          }
+        ],
+        "armor": [
+          {
+            "itemName": "Umbraphile armor",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Umbraphile_armor"
+          }
+        ],
+        "accesories": [
+          {
+            "itemName": "Glove of Recklessness",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Glove_of_Recklessness"
+          },
+          {
+            "itemName": "Ruin Medallion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Ruin_Medallion"
+          },
+          {
+            "itemName": "Vampiric Talisman",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Vampiric_Talisman"
+          },
+          {
+            "itemName": "Abyssal Mirror",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Abyssal_Mirror"
+          },
+          {
+            "itemName": "Electrician's Glove",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Electrician%27s_Glove"
+          },
+          {
+            "itemName": "Glove of Precision",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Glove_of_Precision"
+          },
+          {
+            "itemName": "Ruin Medallion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Ruin_Medallion"
+          }
+        ],
+        "extra": [
+          {
+            "itemName": "Flask of Crumbling",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Flask_of_Crumbling"
+          },
+          {
+            "itemName": "Shadow Potion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Shadow_Potion"
+          }
+        ]
+      },
+      {
+        "class": "All Classes\n",
+        "weapons": [
+          {
+            "itemName": "Lunic Eye",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Lunic_Eye"
+          },
+          {
+            "itemName": "Rod of Discord",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Rod_of_Discord"
+          }
+        ],
+        "armor": [
+          {
+            "itemName": "Reaver armor",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Reaver_armor"
+          }
+        ],
+        "accesories": [
+          {
+            "itemName": "Amalgamated Brain",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Amalgamated_Brain"
+          },
+          {
+            "itemName": "The Community",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/The_Community"
+          },
+          {
+            "itemName": "Grand Gelatin",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Grand_Gelatin"
+          },
+          {
+            "itemName": "Moon Stone",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Moon_Stone"
+          },
+          {
+            "itemName": "Stress Pills",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Stress_Pills"
+          },
+          {
+            "itemName": "Charm of Myths",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Charm_of_Myths"
+          },
+          {
+            "itemName": "Frozen Shield",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Frozen_Shield"
+          },
+          {
+            "itemName": "Hero Shield",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Hero_Shield"
+          },
+          {
+            "itemName": "Living Dew",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Living_Dew"
+          },
+          {
+            "itemName": "Star Veil",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Star_Veil"
+          },
+          {
+            "itemName": "Aureate Booster",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Aureate_Booster"
+          },
+          {
+            "itemName": "Mothron Wings",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Mothron_Wings"
+          },
+          {
+            "itemName": "Angel Treads",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Angel_Treads"
+          },
+          {
+            "itemName": "Fairy Boots",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Fairy_Boots"
+          },
+          {
+            "itemName": "Asgard's Valor",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Asgard%27s_Valor"
+          },
+          {
+            "itemName": "Master Ninja Gear",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Master_Ninja_Gear"
+          },
+          {
+            "itemName": "Baroclaw",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Baroclaw"
+          },
+          {
+            "itemName": "Sand Shark Tooth Necklace",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Sand_Shark_Tooth_Necklace"
+          }
+        ],
+        "extra": [
+          {
+            "itemName": "Greater Healing Potion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Greater_Healing_Potion"
+          },
+          {
+            "itemName": "Candles",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Candles#Purchased"
+          },
+          {
+            "itemName": "Burger",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Burger"
+          },
+          {
+            "itemName": "Inferno Potion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Inferno_Potion"
+          },
+          {
+            "itemName": "Potion of Omniscience",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Potion_of_Omniscience"
+          },
+          {
+            "itemName": "Tesla Potion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Tesla_Potion"
+          },
+          {
+            "itemName": "Endurance Potion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Endurance_Potion"
+          },
+          {
+            "itemName": "Heartreach Potion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Heartreach_Potion"
+          },
+          {
+            "itemName": "Ironskin Potion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Ironskin_Potion"
+          },
+          {
+            "itemName": "Lifeforce Potion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Lifeforce_Potion"
+          },
+          {
+            "itemName": "Photosynthesis Potion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Photosynthesis_Potion"
+          },
+          {
+            "itemName": "Regeneration Potion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Regeneration_Potion"
+          },
+          {
+            "itemName": "Slice of Cake",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Slice_of_Cake"
+          },
+          {
+            "itemName": "Soaring Potion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Soaring_Potion"
+          },
+          {
+            "itemName": "Swiftness Potion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Swiftness_Potion"
+          },
+          {
+            "itemName": "Fabsol's Vodka",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Fabsol%27s_Vodka"
+          },
+          {
+            "itemName": "Rage Potion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Rage_Potion"
+          },
+          {
+            "itemName": "Wrath Potion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Wrath_Potion"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "gameState": "Post-Golem",
+    "classSetups": [
+      {
+        "class": "Melee\n",
+        "weapons": [
+          {
+            "itemName": "Ark of the Ancients",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Ark_of_the_Ancients"
+          },
+          {
+            "itemName": "Christmas Tree Sword",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Christmas_Tree_Sword"
+          },
+          {
+            "itemName": "Fallen Paladin's Hammer",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Fallen_Paladin%27s_Hammer"
+          },
+          {
+            "itemName": "Fault Line",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Fault_Line"
+          },
+          {
+            "itemName": "Omniblade",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Omniblade"
+          },
+          {
+            "itemName": "Terra Blade",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Terra_Blade"
+          },
+          {
+            "itemName": "Typhon's Greed",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Typhon%27s_Greed"
+          }
+        ],
+        "armor": [
+          {
+            "itemName": "Beetle armor",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Beetle_armor"
+          },
+          {
+            "itemName": "Hydrothermic armor",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Hydrothermic_armor"
+          },
+          {
+            "itemName": "Valhalla Knight armor",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Valhalla_Knight_armor"
+          }
+        ],
+        "accesories": [
+          {
+            "itemName": "Beetle Wings",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Beetle_Wings"
+          },
+          {
+            "itemName": "Bloody Worm Scarf",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Bloody_Worm_Scarf"
+          },
+          {
+            "itemName": "Celestial Shell",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Celestial_Shell"
+          },
+          {
+            "itemName": "Fire Gauntlet",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Fire_Gauntlet"
+          },
+          {
+            "itemName": "Yoyo Bag",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Yoyo_Bag"
+          }
+        ],
+        "extra": [
+          {
+            "itemName": "Flask of Crumbling",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Flask_of_Crumbling"
+          },
+          {
+            "itemName": "Ale",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Ale"
+          },
+          {
+            "itemName": "Sharpening Station",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Sharpening_Station"
+          }
+        ]
+      },
+      {
+        "class": "Ranged\n",
+        "weapons": [
+          {
+            "itemName": "Arc Nova Diffuser",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Arc_Nova_Diffuser"
+          },
+          {
+            "itemName": "Aurora Blazer",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Aurora_Blazer"
+          },
+          {
+            "itemName": "Eternal Blizzard",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Eternal_Blizzard"
+          },
+          {
+            "itemName": "Flak Kraken",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Flak_Kraken"
+          },
+          {
+            "itemName": "Leviatitan",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Leviatitan"
+          },
+          {
+            "itemName": "Snowman Cannon",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Snowman_Cannon"
+          }
+        ],
+        "armor": [
+          {
+            "itemName": "Hydrothermic armor",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Hydrothermic_armor"
+          },
+          {
+            "itemName": "Plague Reaper armor",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Plague_Reaper_armor"
+          },
+          {
+            "itemName": "Shroomite armor",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Shroomite_armor"
+          }
+        ],
+        "accesories": [
+          {
+            "itemName": "Deadshot Brooch",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Deadshot_Brooch"
+          },
+          {
+            "itemName": "Hoverboard",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Hoverboard"
+          },
+          {
+            "itemName": "Recon Scope",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Recon_Scope"
+          }
+        ],
+        "extra": [
+          {
+            "itemName": "Ammo Reservation Potion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Ammo_Reservation_Potion"
+          },
+          {
+            "itemName": "Archery Potion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Archery_Potion"
+          },
+          {
+            "itemName": "Ammo Box",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Ammo_Box"
+          },
+          {
+            "itemName": "Icicle Arrow",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Icicle_Arrow"
+          },
+          {
+            "itemName": "Sprouting Arrow",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Sprouting_Arrow"
+          },
+          {
+            "itemName": "Venom Arrow",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Venom_Arrow"
+          },
+          {
+            "itemName": "Bubonic Round",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Bubonic_Round"
+          },
+          {
+            "itemName": "Hailstorm Bullet",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Hailstorm_Bullet"
+          },
+          {
+            "itemName": "Cluster Rocket I",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Cluster_Rocket_I"
+          },
+          {
+            "itemName": "Rocket III",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Rocket_III"
+          },
+          {
+            "itemName": "Gel",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Gel"
+          }
+        ]
+      },
+      {
+        "class": "Magic\n",
+        "weapons": [
+          {
+            "itemName": "Astralachnea Staff",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Astralachnea_Staff"
+          },
+          {
+            "itemName": "Bat Scepter",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Bat_Scepter"
+          },
+          {
+            "itemName": "Charged Blaster Cannon",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Charged_Blaster_Cannon"
+          },
+          {
+            "itemName": "Shifting Sands",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Shifting_Sands"
+          },
+          {
+            "itemName": "Wingman",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Wingman"
+          },
+          {
+            "itemName": "Wrath of the Ancients",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Wrath_of_the_Ancients"
+          }
+        ],
+        "armor": [
+          {
+            "itemName": "Brimflame armor",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Brimflame_armor"
+          },
+          {
+            "itemName": "Hydrothermic armor",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Hydrothermic_armor"
+          },
+          {
+            "itemName": "Spectre armor",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Spectre_armor"
+          }
+        ],
+        "accesories": [
+          {
+            "itemName": "Arcane Flower",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Arcane_Flower"
+          },
+          {
+            "itemName": "Permafrost's Concoction",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Permafrost%27s_Concoction"
+          },
+          {
+            "itemName": "Sigil of Calamitas",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Sigil_of_Calamitas"
+          },
+          {
+            "itemName": "Spectre Wings",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Spectre_Wings"
+          }
+        ],
+        "extra": [
+          {
+            "itemName": "Super Mana Potion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Super_Mana_Potion"
+          },
+          {
+            "itemName": "White Wine",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/White_Wine"
+          },
+          {
+            "itemName": "Magic Power Potion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Magic_Power_Potion"
+          },
+          {
+            "itemName": "Mana Regeneration Potion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Mana_Regeneration_Potion"
+          },
+          {
+            "itemName": "Star Beam Rye",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Star_Beam_Rye"
+          },
+          {
+            "itemName": "Crystal Ball",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Crystal_Ball"
+          }
+        ]
+      },
+      {
+        "class": "Summoning\n",
+        "weapons": [
+          {
+            "itemName": "Raven Staff",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Raven_Staff"
+          },
+          {
+            "itemName": "Sand Sharknado Staff",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Sand_Sharknado_Staff"
+          },
+          {
+            "itemName": "Wither Blossoms Staff",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Wither_Blossoms_Staff"
+          },
+          {
+            "itemName": "Xeno Staff",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Xeno_Staff"
+          },
+          {
+            "itemName": "Cryogenic Staff",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Cryogenic_Staff"
+          },
+          {
+            "itemName": "Hive Pod",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Hive_Pod"
+          },
+          {
+            "itemName": "Borealis Bomber",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Borealis_Bomber"
+          },
+          {
+            "itemName": "Dark Harvest",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Dark_Harvest"
+          },
+          {
+            "itemName": "Morning Star",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Morning_Star"
+          }
+        ],
+        "armor": [
+          {
+            "itemName": "Hydrothermic armor",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Hydrothermic_armor"
+          },
+          {
+            "itemName": "Spooky armor",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Spooky_armor"
+          },
+          {
+            "itemName": "Valhalla Knight armor",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Valhalla_Knight_armor"
+          }
+        ],
+        "accesories": [
+          {
+            "itemName": "Hallowed Rune",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Hallowed_Rune"
+          },
+          {
+            "itemName": "Spooky Wings",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Spooky_Wings"
+          },
+          {
+            "itemName": "Star-Tainted Generator",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Star-Tainted_Generator"
+          },
+          {
+            "itemName": "Statis' Blessing",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Statis%27_Blessing"
+          }
+        ],
+        "extra": [
+          {
+            "itemName": "Flask of Crumbling",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Flask_of_Crumbling"
+          },
+          {
+            "itemName": "Summoning Potion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Summoning_Potion"
+          },
+          {
+            "itemName": "Bewitching Table",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Bewitching_Table"
+          },
+          {
+            "itemName": "War Table",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/War_Table"
+          }
+        ]
+      },
+      {
+        "class": "Rogue\n",
+        "weapons": [
+          {
+            "itemName": "Defective Sphere",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Defective_Sphere"
+          },
+          {
+            "itemName": "Epidemic Shredder",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Epidemic_Shredder"
+          },
+          {
+            "itemName": "Plaguenade",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Plaguenade"
+          },
+          {
+            "itemName": "Shock Grenade",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Shock_Grenade"
+          },
+          {
+            "itemName": "Subduction Slicer",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Subduction_Slicer"
+          },
+          {
+            "itemName": "Apoctolith",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Apoctolith"
+          },
+          {
+            "itemName": "Heavenfallen Stardisk",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Heavenfallen_Stardisk"
+          },
+          {
+            "itemName": "Stellar Knife",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Stellar_Knife"
+          },
+          {
+            "itemName": "Subduction Slicer",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Subduction_Slicer"
+          }
+        ],
+        "armor": [
+          {
+            "itemName": "Hydrothermic armor",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Hydrothermic_armor"
+          }
+        ],
+        "accesories": [
+          {
+            "itemName": "Glove of Recklessness",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Glove_of_Recklessness"
+          },
+          {
+            "itemName": "Plagued Fuel Pack",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Plagued_Fuel_Pack"
+          },
+          {
+            "itemName": "Ruin Medallion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Ruin_Medallion"
+          },
+          {
+            "itemName": "Vampiric Talisman",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Vampiric_Talisman"
+          },
+          {
+            "itemName": "Abyssal Mirror",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Abyssal_Mirror"
+          },
+          {
+            "itemName": "Electrician's Glove",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Electrician%27s_Glove"
+          },
+          {
+            "itemName": "Glove of Precision",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Glove_of_Precision"
+          },
+          {
+            "itemName": "Ruin Medallion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Ruin_Medallion"
+          }
+        ],
+        "extra": [
+          {
+            "itemName": "Flask of Crumbling",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Flask_of_Crumbling"
+          },
+          {
+            "itemName": "Shadow Potion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Shadow_Potion"
+          }
+        ]
+      },
+      {
+        "class": "All Classes\n",
+        "weapons": [
+          {
+            "itemName": "Lunic Eye",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Lunic_Eye"
+          },
+          {
+            "itemName": "Rod of Discord",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Rod_of_Discord"
+          },
+          {
+            "itemName": "Yanmei's Knife",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Yanmei%27s_Knife"
+          }
+        ],
+        "armor": [
+          {
+            "itemName": "Reaver armor",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Reaver_armor"
+          }
+        ],
+        "accesories": [
+          {
+            "itemName": "Amalgamated Brain",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Amalgamated_Brain"
+          },
+          {
+            "itemName": "The Community",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/The_Community"
+          },
+          {
+            "itemName": "Stress Pills",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Stress_Pills"
+          },
+          {
+            "itemName": "Charm of Myths",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Charm_of_Myths"
+          },
+          {
+            "itemName": "Frozen Shield",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Frozen_Shield"
+          },
+          {
+            "itemName": "Hero Shield",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Hero_Shield"
+          },
+          {
+            "itemName": "Living Dew",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Living_Dew"
+          },
+          {
+            "itemName": "Star Veil",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Star_Veil"
+          },
+          {
+            "itemName": "Betsy's Wings",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Betsy%27s_Wings"
+          },
+          {
+            "itemName": "Festive Wings",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Festive_Wings"
+          },
+          {
+            "itemName": "Steampunk Wings",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Steampunk_Wings"
+          },
+          {
+            "itemName": "Tattered Fairy Wings",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Tattered_Fairy_Wings"
+          },
+          {
+            "itemName": "Angel Treads",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Angel_Treads"
+          },
+          {
+            "itemName": "Fairy Boots",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Fairy_Boots"
+          },
+          {
+            "itemName": "Asgard's Valor",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Asgard%27s_Valor"
+          },
+          {
+            "itemName": "Master Ninja Gear",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Master_Ninja_Gear"
+          },
+          {
+            "itemName": "Destroyer Emblem",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Destroyer_Emblem"
+          },
+          {
+            "itemName": "Sand Shark Tooth Necklace",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Sand_Shark_Tooth_Necklace"
+          }
+        ],
+        "extra": [
+          {
+            "itemName": "Greater Healing Potion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Greater_Healing_Potion"
+          },
+          {
+            "itemName": "Candles",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Candles#Purchased"
+          },
+          {
+            "itemName": "Burger",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Burger"
+          },
+          {
+            "itemName": "Inferno Potion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Inferno_Potion"
+          },
+          {
+            "itemName": "Potion of Omniscience",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Potion_of_Omniscience"
+          },
+          {
+            "itemName": "Tesla Potion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Tesla_Potion"
+          },
+          {
+            "itemName": "Endurance Potion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Endurance_Potion"
+          },
+          {
+            "itemName": "Heartreach Potion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Heartreach_Potion"
+          },
+          {
+            "itemName": "Ironskin Potion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Ironskin_Potion"
+          },
+          {
+            "itemName": "Lifeforce Potion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Lifeforce_Potion"
+          },
+          {
+            "itemName": "Moonshine",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Moonshine"
+          },
+          {
+            "itemName": "Photosynthesis Potion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Photosynthesis_Potion"
+          },
+          {
+            "itemName": "Regeneration Potion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Regeneration_Potion"
+          },
+          {
+            "itemName": "Slice of Cake",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Slice_of_Cake"
+          },
+          {
+            "itemName": "Soaring Potion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Soaring_Potion"
+          },
+          {
+            "itemName": "Swiftness Potion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Swiftness_Potion"
+          },
+          {
+            "itemName": "Fabsol's Vodka",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Fabsol%27s_Vodka"
+          },
+          {
+            "itemName": "Moscow Mule",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Moscow_Mule"
+          },
+          {
+            "itemName": "Tequila Sunrise",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Tequila_Sunrise"
+          },
+          {
+            "itemName": "Rage Potion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Rage_Potion"
+          },
+          {
+            "itemName": "Wrath Potion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Wrath_Potion"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "gameState": "Pre-Lunar_Events",
+    "classSetups": [
+      {
+        "class": "Melee\n",
+        "weapons": [
+          {
+            "itemName": "Exalted Oathblade",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Exalted_Oathblade"
+          },
+          {
+            "itemName": "Fallen Paladin's Hammer",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Fallen_Paladin%27s_Hammer"
+          },
+          {
+            "itemName": "Flairon",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Flairon"
+          },
+          {
+            "itemName": "Starlight",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Starlight"
+          },
+          {
+            "itemName": "Typhon's Greed",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Typhon%27s_Greed"
+          },
+          {
+            "itemName": "Virulence",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Virulence"
+          }
+        ],
+        "armor": [
+          {
+            "itemName": "Beetle armor",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Beetle_armor"
+          },
+          {
+            "itemName": "Hydrothermic armor",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Hydrothermic_armor"
+          },
+          {
+            "itemName": "Valhalla Knight armor",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Valhalla_Knight_armor"
+          }
+        ],
+        "accesories": [
+          {
+            "itemName": "Beetle Wings",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Beetle_Wings"
+          },
+          {
+            "itemName": "Bloody Worm Scarf",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Bloody_Worm_Scarf"
+          },
+          {
+            "itemName": "Celestial Shell",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Celestial_Shell"
+          },
+          {
+            "itemName": "Fire Gauntlet",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Fire_Gauntlet"
+          }
+        ],
+        "extra": [
+          {
+            "itemName": "Flask of Crumbling",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Flask_of_Crumbling"
+          },
+          {
+            "itemName": "Ale",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Ale"
+          },
+          {
+            "itemName": "Sharpening Station",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Sharpening_Station"
+          }
+        ]
+      },
+      {
+        "class": "Ranged\n",
+        "weapons": [
+          {
+            "itemName": "Aerial Bane",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Aerial_Bane"
+          },
+          {
+            "itemName": "Blight Spewer",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Blight_Spewer"
+          },
+          {
+            "itemName": "Gauss Rifle",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Gauss_Rifle"
+          },
+          {
+            "itemName": "The Hive",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/The_Hive"
+          },
+          {
+            "itemName": "Pestilent Defiler",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Pestilent_Defiler"
+          },
+          {
+            "itemName": "Plague Tainted SMG",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Plague_Tainted_SMG"
+          },
+          {
+            "itemName": "Tsunami",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Tsunami"
+          }
+        ],
+        "armor": [
+          {
+            "itemName": "Hydrothermic armor",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Hydrothermic_armor"
+          },
+          {
+            "itemName": "Plague Reaper armor",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Plague_Reaper_armor"
+          },
+          {
+            "itemName": "Shroomite armor",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Shroomite_armor"
+          }
+        ],
+        "accesories": [
+          {
+            "itemName": "Alchemical Flask",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Alchemical_Flask"
+          },
+          {
+            "itemName": "Deadshot Brooch",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Deadshot_Brooch"
+          },
+          {
+            "itemName": "Hoverboard",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Hoverboard"
+          },
+          {
+            "itemName": "Recon Scope",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Recon_Scope"
+          }
+        ],
+        "extra": [
+          {
+            "itemName": "Ammo Reservation Potion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Ammo_Reservation_Potion"
+          },
+          {
+            "itemName": "Archery Potion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Archery_Potion"
+          },
+          {
+            "itemName": "Ammo Box",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Ammo_Box"
+          },
+          {
+            "itemName": "Icicle Arrow",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Icicle_Arrow"
+          },
+          {
+            "itemName": "Sprouting Arrow",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Sprouting_Arrow"
+          },
+          {
+            "itemName": "Venom Arrow",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Venom_Arrow"
+          },
+          {
+            "itemName": "Bubonic Round",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Bubonic_Round"
+          },
+          {
+            "itemName": "Hailstorm Bullet",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Hailstorm_Bullet"
+          },
+          {
+            "itemName": "Musket Ball",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Musket_Ball"
+          },
+          {
+            "itemName": "Tungsten Bullet",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Tungsten_Bullet"
+          },
+          {
+            "itemName": "Cluster Rocket I",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Cluster_Rocket_I"
+          },
+          {
+            "itemName": "Rocket III",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Rocket_III"
+          },
+          {
+            "itemName": "Gel",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Gel"
+          }
+        ]
+      },
+      {
+        "class": "Magic\n",
+        "weapons": [
+          {
+            "itemName": "Bat Scepter",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Bat_Scepter"
+          },
+          {
+            "itemName": "Bubble Gun",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Bubble_Gun"
+          },
+          {
+            "itemName": "Gatling Laser",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Gatling_Laser"
+          },
+          {
+            "itemName": "Hematemesis",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Hematemesis"
+          },
+          {
+            "itemName": "Plague Staff",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Plague_Staff"
+          },
+          {
+            "itemName": "Stellar Tune",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Stellar_Tune"
+          }
+        ],
+        "armor": [
+          {
+            "itemName": "Brimflame armor",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Brimflame_armor"
+          },
+          {
+            "itemName": "Hydrothermic armor",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Hydrothermic_armor"
+          },
+          {
+            "itemName": "Spectre armor",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Spectre_armor"
+          }
+        ],
+        "accesories": [
+          {
+            "itemName": "Arcane Flower",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Arcane_Flower"
+          },
+          {
+            "itemName": "Permafrost's Concoction",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Permafrost%27s_Concoction"
+          },
+          {
+            "itemName": "Sigil of Calamitas",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Sigil_of_Calamitas"
+          },
+          {
+            "itemName": "Spectre Wings",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Spectre_Wings"
+          }
+        ],
+        "extra": [
+          {
+            "itemName": "Super Mana Potion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Super_Mana_Potion"
+          },
+          {
+            "itemName": "White Wine",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/White_Wine"
+          },
+          {
+            "itemName": "Magic Power Potion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Magic_Power_Potion"
+          },
+          {
+            "itemName": "Mana Regeneration Potion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Mana_Regeneration_Potion"
+          },
+          {
+            "itemName": "Star Beam Rye",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Star_Beam_Rye"
+          },
+          {
+            "itemName": "Crystal Ball",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Crystal_Ball"
+          }
+        ]
+      },
+      {
+        "class": "Summoning\n",
+        "weapons": [
+          {
+            "itemName": "Fuel Cell Bundle",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Fuel_Cell_Bundle"
+          },
+          {
+            "itemName": "Raven Staff",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Raven_Staff"
+          },
+          {
+            "itemName": "Sand Sharknado Staff",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Sand_Sharknado_Staff"
+          },
+          {
+            "itemName": "Terraprisma",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Terraprisma"
+          },
+          {
+            "itemName": "Xeno Staff",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Xeno_Staff"
+          },
+          {
+            "itemName": "Cryogenic Staff",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Cryogenic_Staff"
+          },
+          {
+            "itemName": "Spikecrag Staff",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Spikecrag_Staff"
+          },
+          {
+            "itemName": "Dark Harvest",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Dark_Harvest"
+          },
+          {
+            "itemName": "Kaleidoscope",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Kaleidoscope"
+          }
+        ],
+        "armor": [
+          {
+            "itemName": "Hydrothermic armor",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Hydrothermic_armor"
+          },
+          {
+            "itemName": "Plaguebringer armor",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Plaguebringer_armor"
+          },
+          {
+            "itemName": "Spooky armor",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Spooky_armor"
+          },
+          {
+            "itemName": "Valhalla Knight armor",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Valhalla_Knight_armor"
+          }
+        ],
+        "accesories": [
+          {
+            "itemName": "Hallowed Rune",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Hallowed_Rune"
+          },
+          {
+            "itemName": "Spooky Wings",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Spooky_Wings"
+          },
+          {
+            "itemName": "Star-Tainted Generator",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Star-Tainted_Generator"
+          },
+          {
+            "itemName": "Statis' Blessing",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Statis%27_Blessing"
+          }
+        ],
+        "extra": [
+          {
+            "itemName": "Flask of Crumbling",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Flask_of_Crumbling"
+          },
+          {
+            "itemName": "Summoning Potion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Summoning_Potion"
+          },
+          {
+            "itemName": "Bewitching Table",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Bewitching_Table"
+          },
+          {
+            "itemName": "War Table",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/War_Table"
+          }
+        ]
+      },
+      {
+        "class": "Rogue\n",
+        "weapons": [
+          {
+            "itemName": "Cranium Smasher",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Cranium_Smasher"
+          },
+          {
+            "itemName": "Plaguenade",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Plaguenade"
+          },
+          {
+            "itemName": "Subduction Slicer",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Subduction_Slicer"
+          },
+          {
+            "itemName": "The Syringe",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/The_Syringe"
+          },
+          {
+            "itemName": "Duke's Decapitator",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Duke%27s_Decapitator"
+          },
+          {
+            "itemName": "Malachite",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Malachite"
+          },
+          {
+            "itemName": "Subduction Slicer",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Subduction_Slicer"
+          },
+          {
+            "itemName": "System Bane",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/System_Bane"
+          }
+        ],
+        "armor": [
+          {
+            "itemName": "Hydrothermic armor",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Hydrothermic_armor"
+          }
+        ],
+        "accesories": [
+          {
+            "itemName": "Glove of Recklessness",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Glove_of_Recklessness"
+          },
+          {
+            "itemName": "Plagued Fuel Pack",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Plagued_Fuel_Pack"
+          },
+          {
+            "itemName": "Ruin Medallion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Ruin_Medallion"
+          },
+          {
+            "itemName": "Vampiric Talisman",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Vampiric_Talisman"
+          },
+          {
+            "itemName": "Abyssal Mirror",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Abyssal_Mirror"
+          },
+          {
+            "itemName": "Electrician's Glove",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Electrician%27s_Glove"
+          },
+          {
+            "itemName": "Glove of Precision",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Glove_of_Precision"
+          },
+          {
+            "itemName": "Ruin Medallion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Ruin_Medallion"
+          }
+        ],
+        "extra": [
+          {
+            "itemName": "Flask of Crumbling",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Flask_of_Crumbling"
+          },
+          {
+            "itemName": "Shadow Potion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Shadow_Potion"
+          }
+        ]
+      },
+      {
+        "class": "All Classes\n",
+        "weapons": [
+          {
+            "itemName": "Betsy's Wrath",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Betsy%27s_Wrath"
+          },
+          {
+            "itemName": "Lunic Eye",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Lunic_Eye"
+          },
+          {
+            "itemName": "Rod of Discord",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Rod_of_Discord"
+          },
+          {
+            "itemName": "Yanmei's Knife",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Yanmei%27s_Knife"
+          }
+        ],
+        "armor": [
+          {
+            "itemName": "Reaver armor",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Reaver_armor"
+          }
+        ],
+        "accesories": [
+          {
+            "itemName": "Amalgamated Brain",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Amalgamated_Brain"
+          },
+          {
+            "itemName": "The Community",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/The_Community"
+          },
+          {
+            "itemName": "Stress Pills",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Stress_Pills"
+          },
+          {
+            "itemName": "Blood Pact",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Blood_Pact"
+          },
+          {
+            "itemName": "Charm of Myths",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Charm_of_Myths"
+          },
+          {
+            "itemName": "Frozen Shield",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Frozen_Shield"
+          },
+          {
+            "itemName": "Living Dew",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Living_Dew"
+          },
+          {
+            "itemName": "Star Veil",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Star_Veil"
+          },
+          {
+            "itemName": "Betsy's Wings",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Betsy%27s_Wings"
+          },
+          {
+            "itemName": "Empress Wings",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Empress_Wings"
+          },
+          {
+            "itemName": "Fishron Wings",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Fishron_Wings"
+          },
+          {
+            "itemName": "Angel Treads",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Angel_Treads"
+          },
+          {
+            "itemName": "Fairy Boots",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Fairy_Boots"
+          },
+          {
+            "itemName": "Asgard's Valor",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Asgard%27s_Valor"
+          },
+          {
+            "itemName": "Master Ninja Gear",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Master_Ninja_Gear"
+          },
+          {
+            "itemName": "Destroyer Emblem",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Destroyer_Emblem"
+          },
+          {
+            "itemName": "Sand Shark Tooth Necklace",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Sand_Shark_Tooth_Necklace"
+          }
+        ],
+        "extra": [
+          {
+            "itemName": "Greater Healing Potion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Greater_Healing_Potion"
+          },
+          {
+            "itemName": "Candles",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Candles#Purchased"
+          },
+          {
+            "itemName": "Burger",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Burger"
+          },
+          {
+            "itemName": "Inferno Potion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Inferno_Potion"
+          },
+          {
+            "itemName": "Potion of Omniscience",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Potion_of_Omniscience"
+          },
+          {
+            "itemName": "Tesla Potion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Tesla_Potion"
+          },
+          {
+            "itemName": "Endurance Potion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Endurance_Potion"
+          },
+          {
+            "itemName": "Heartreach Potion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Heartreach_Potion"
+          },
+          {
+            "itemName": "Ironskin Potion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Ironskin_Potion"
+          },
+          {
+            "itemName": "Lifeforce Potion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Lifeforce_Potion"
+          },
+          {
+            "itemName": "Moonshine",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Moonshine"
+          },
+          {
+            "itemName": "Photosynthesis Potion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Photosynthesis_Potion"
+          },
+          {
+            "itemName": "Regeneration Potion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Regeneration_Potion"
+          },
+          {
+            "itemName": "Slice of Cake",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Slice_of_Cake"
+          },
+          {
+            "itemName": "Soaring Potion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Soaring_Potion"
+          },
+          {
+            "itemName": "Swiftness Potion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Swiftness_Potion"
+          },
+          {
+            "itemName": "Fabsol's Vodka",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Fabsol%27s_Vodka"
+          },
+          {
+            "itemName": "Moscow Mule",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Moscow_Mule"
+          },
+          {
+            "itemName": "Tequila Sunrise",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Tequila_Sunrise"
+          },
+          {
+            "itemName": "Rage Potion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Rage_Potion"
+          },
+          {
+            "itemName": "Wrath Potion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Wrath_Potion"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "gameState": "Pre-Moon_Lord",
+    "classSetups": [
+      {
+        "class": "Melee\n",
+        "weapons": [
+          {
+            "itemName": "Daybreak",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Daybreak"
+          },
+          {
+            "itemName": "Exalted Oathblade",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Exalted_Oathblade"
+          },
+          {
+            "itemName": "Grand Guardian",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Grand_Guardian"
+          },
+          {
+            "itemName": "The Microwave",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/The_Microwave"
+          },
+          {
+            "itemName": "Sky Dragon's Fury",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Sky_Dragon%27s_Fury"
+          },
+          {
+            "itemName": "Solar Eruption",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Solar_Eruption"
+          }
+        ],
+        "armor": [
+          {
+            "itemName": "Beetle armor",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Beetle_armor"
+          },
+          {
+            "itemName": "Hydrothermic armor",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Hydrothermic_armor"
+          },
+          {
+            "itemName": "Valhalla Knight armor",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Valhalla_Knight_armor"
+          }
+        ],
+        "accesories": [
+          {
+            "itemName": "Beetle Wings",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Beetle_Wings"
+          },
+          {
+            "itemName": "Bloody Worm Scarf",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Bloody_Worm_Scarf"
+          },
+          {
+            "itemName": "Celestial Shell",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Celestial_Shell"
+          },
+          {
+            "itemName": "Fire Gauntlet",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Fire_Gauntlet"
+          },
+          {
+            "itemName": "Hide of Astrum Deus",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Hide_of_Astrum_Deus"
+          },
+          {
+            "itemName": "Yoyo Bag",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Yoyo_Bag"
+          }
+        ],
+        "extra": [
+          {
+            "itemName": "Flask of Crumbling",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Flask_of_Crumbling"
+          },
+          {
+            "itemName": "Ale",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Ale"
+          },
+          {
+            "itemName": "Sharpening Station",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Sharpening_Station"
+          }
+        ]
+      },
+      {
+        "class": "Ranged\n",
+        "weapons": [
+          {
+            "itemName": "Dead Sun's Wind",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Dead_Sun%27s_Wind"
+          },
+          {
+            "itemName": "Phantasm",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Phantasm"
+          },
+          {
+            "itemName": "Scorpio",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Scorpio"
+          },
+          {
+            "itemName": "Spectralstorm Cannon",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Spectralstorm_Cannon"
+          },
+          {
+            "itemName": "Vortex Beater",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Vortex_Beater"
+          },
+          {
+            "itemName": "Vortexpopper",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Vortexpopper"
+          }
+        ],
+        "armor": [
+          {
+            "itemName": "Hydrothermic armor",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Hydrothermic_armor"
+          },
+          {
+            "itemName": "Lunic Corps armor",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Lunic_Corps_armor"
+          },
+          {
+            "itemName": "Plague Reaper armor",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Plague_Reaper_armor"
+          }
+        ],
+        "accesories": [
+          {
+            "itemName": "Deadshot Brooch",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Deadshot_Brooch"
+          },
+          {
+            "itemName": "Recon Scope",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Recon_Scope"
+          }
+        ],
+        "extra": [
+          {
+            "itemName": "Ammo Reservation Potion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Ammo_Reservation_Potion"
+          },
+          {
+            "itemName": "Archery Potion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Archery_Potion"
+          },
+          {
+            "itemName": "Ammo Box",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Ammo_Box"
+          },
+          {
+            "itemName": "Icicle Arrow",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Icicle_Arrow"
+          },
+          {
+            "itemName": "Sprouting Arrow",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Sprouting_Arrow"
+          },
+          {
+            "itemName": "Venom Arrow",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Venom_Arrow"
+          },
+          {
+            "itemName": "Bubonic Round",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Bubonic_Round"
+          },
+          {
+            "itemName": "Exploding Bullet",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Exploding_Bullet"
+          },
+          {
+            "itemName": "Hailstorm Bullet",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Hailstorm_Bullet"
+          },
+          {
+            "itemName": "Cluster Rocket I",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Cluster_Rocket_I"
+          },
+          {
+            "itemName": "Rocket III",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Rocket_III"
+          },
+          {
+            "itemName": "Cursed Flare",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Cursed_Flare"
+          },
+          {
+            "itemName": "Gel",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Gel"
+          }
+        ]
+      },
+      {
+        "class": "Magic\n",
+        "weapons": [
+          {
+            "itemName": "Arch Amaryllis",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Arch_Amaryllis"
+          },
+          {
+            "itemName": "Astral Staff",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Astral_Staff"
+          },
+          {
+            "itemName": "Lazhar",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Lazhar"
+          },
+          {
+            "itemName": "Nano Purge",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Nano_Purge"
+          },
+          {
+            "itemName": "Nebula Blaze",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Nebula_Blaze"
+          },
+          {
+            "itemName": "Tome of Fates",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Tome_of_Fates"
+          }
+        ],
+        "armor": [
+          {
+            "itemName": "Hydrothermic armor",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Hydrothermic_armor"
+          },
+          {
+            "itemName": "Spectre armor",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Spectre_armor"
+          }
+        ],
+        "accesories": [
+          {
+            "itemName": "Arcane Flower",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Arcane_Flower"
+          },
+          {
+            "itemName": "Permafrost's Concoction",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Permafrost%27s_Concoction"
+          },
+          {
+            "itemName": "Sigil of Calamitas",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Sigil_of_Calamitas"
+          },
+          {
+            "itemName": "Spectre Wings",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Spectre_Wings"
+          }
+        ],
+        "extra": [
+          {
+            "itemName": "Super Mana Potion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Super_Mana_Potion"
+          },
+          {
+            "itemName": "White Wine",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/White_Wine"
+          },
+          {
+            "itemName": "Magic Power Potion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Magic_Power_Potion"
+          },
+          {
+            "itemName": "Mana Regeneration Potion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Mana_Regeneration_Potion"
+          },
+          {
+            "itemName": "Star Beam Rye",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Star_Beam_Rye"
+          },
+          {
+            "itemName": "Crystal Ball",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Crystal_Ball"
+          }
+        ]
+      },
+      {
+        "class": "Summoning\n",
+        "weapons": [
+          {
+            "itemName": "Fuel Cell Bundle",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Fuel_Cell_Bundle"
+          },
+          {
+            "itemName": "Stardust Dragon Staff",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Stardust_Dragon_Staff"
+          },
+          {
+            "itemName": "Terraprisma",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Terraprisma"
+          },
+          {
+            "itemName": "Wither Blossoms Staff",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Wither_Blossoms_Staff"
+          },
+          {
+            "itemName": "Cryogenic Staff",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Cryogenic_Staff"
+          },
+          {
+            "itemName": "Spikecrag Staff",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Spikecrag_Staff"
+          },
+          {
+            "itemName": "Kaleidoscope",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Kaleidoscope"
+          }
+        ],
+        "armor": [
+          {
+            "itemName": "Hydrothermic armor",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Hydrothermic_armor"
+          },
+          {
+            "itemName": "Plaguebringer armor",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Plaguebringer_armor"
+          },
+          {
+            "itemName": "Spooky armor",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Spooky_armor"
+          },
+          {
+            "itemName": "Valhalla Knight armor",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Valhalla_Knight_armor"
+          }
+        ],
+        "accesories": [
+          {
+            "itemName": "Hallowed Rune",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Hallowed_Rune"
+          },
+          {
+            "itemName": "Spooky Wings",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Spooky_Wings"
+          },
+          {
+            "itemName": "Star-Tainted Generator",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Star-Tainted_Generator"
+          },
+          {
+            "itemName": "Statis' Curse",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Statis%27_Curse"
+          }
+        ],
+        "extra": [
+          {
+            "itemName": "Flask of Crumbling",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Flask_of_Crumbling"
+          },
+          {
+            "itemName": "Summoning Potion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Summoning_Potion"
+          },
+          {
+            "itemName": "Bewitching Table",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Bewitching_Table"
+          },
+          {
+            "itemName": "War Table",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/War_Table"
+          }
+        ]
+      },
+      {
+        "class": "Rogue\n",
+        "weapons": [
+          {
+            "itemName": "Cranium Smasher",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Cranium_Smasher"
+          },
+          {
+            "itemName": "Radiant Star",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Radiant_Star"
+          },
+          {
+            "itemName": "Regulus Riot",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Regulus_Riot"
+          },
+          {
+            "itemName": "Star of Destruction",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Star_of_Destruction"
+          },
+          {
+            "itemName": "Malachite",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Malachite"
+          },
+          {
+            "itemName": "Regulus Riot",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Regulus_Riot"
+          },
+          {
+            "itemName": "Star of Destruction",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Star_of_Destruction"
+          },
+          {
+            "itemName": "System Bane",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/System_Bane"
+          }
+        ],
+        "armor": [
+          {
+            "itemName": "Hydrothermic armor",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Hydrothermic_armor"
+          }
+        ],
+        "accesories": [
+          {
+            "itemName": "Dark Matter Sheath",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Dark_Matter_Sheath"
+          },
+          {
+            "itemName": "Glove of Recklessness",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Glove_of_Recklessness"
+          },
+          {
+            "itemName": "Plagued Fuel Pack",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Plagued_Fuel_Pack"
+          },
+          {
+            "itemName": "Vampiric Talisman",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Vampiric_Talisman"
+          },
+          {
+            "itemName": "Abyssal Mirror",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Abyssal_Mirror"
+          },
+          {
+            "itemName": "Dark Matter Sheath",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Dark_Matter_Sheath"
+          },
+          {
+            "itemName": "Electrician's Glove",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Electrician%27s_Glove"
+          },
+          {
+            "itemName": "Glove of Precision",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Glove_of_Precision"
+          }
+        ],
+        "extra": [
+          {
+            "itemName": "Flask of Crumbling",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Flask_of_Crumbling"
+          },
+          {
+            "itemName": "Shadow Potion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Shadow_Potion"
+          }
+        ]
+      },
+      {
+        "class": "All Classes\n",
+        "weapons": [
+          {
+            "itemName": "Betsy's Wrath",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Betsy%27s_Wrath"
+          },
+          {
+            "itemName": "Eye of Magnus",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Eye_of_Magnus"
+          },
+          {
+            "itemName": "Rod of Discord",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Rod_of_Discord"
+          },
+          {
+            "itemName": "Yanmei's Knife",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Yanmei%27s_Knife"
+          }
+        ],
+        "armor": [
+          {
+            "itemName": "Astral armor",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Astral_armor"
+          },
+          {
+            "itemName": "Reaver armor",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Reaver_armor"
+          }
+        ],
+        "accesories": [
+          {
+            "itemName": "The Absorber",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/The_Absorber"
+          },
+          {
+            "itemName": "Amalgamated Brain",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Amalgamated_Brain"
+          },
+          {
+            "itemName": "The Community",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/The_Community"
+          },
+          {
+            "itemName": "Stress Pills",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Stress_Pills"
+          },
+          {
+            "itemName": "Ambrosial Ampoule",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Ambrosial_Ampoule"
+          },
+          {
+            "itemName": "Blood Pact",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Blood_Pact"
+          },
+          {
+            "itemName": "Charm of Myths",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Charm_of_Myths"
+          },
+          {
+            "itemName": "Deific Amulet",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Deific_Amulet"
+          },
+          {
+            "itemName": "Frozen Shield",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Frozen_Shield"
+          },
+          {
+            "itemName": "Infected Jewel",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Infected_Jewel"
+          },
+          {
+            "itemName": "Betsy's Wings",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Betsy%27s_Wings"
+          },
+          {
+            "itemName": "Empress Wings",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Empress_Wings"
+          },
+          {
+            "itemName": "Fishron Wings",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Fishron_Wings"
+          },
+          {
+            "itemName": "Angel Treads",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Angel_Treads"
+          },
+          {
+            "itemName": "Asgard's Valor",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Asgard%27s_Valor"
+          },
+          {
+            "itemName": "Master Ninja Gear",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Master_Ninja_Gear"
+          },
+          {
+            "itemName": "Destroyer Emblem",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Destroyer_Emblem"
+          },
+          {
+            "itemName": "Sand Shark Tooth Necklace",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Sand_Shark_Tooth_Necklace"
+          }
+        ],
+        "extra": [
+          {
+            "itemName": "Super Healing Potion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Super_Healing_Potion"
+          },
+          {
+            "itemName": "Candles",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Candles#Purchased"
+          },
+          {
+            "itemName": "Burger",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Burger"
+          },
+          {
+            "itemName": "Inferno Potion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Inferno_Potion"
+          },
+          {
+            "itemName": "Potion of Omniscience",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Potion_of_Omniscience"
+          },
+          {
+            "itemName": "Tesla Potion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Tesla_Potion"
+          },
+          {
+            "itemName": "Endurance Potion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Endurance_Potion"
+          },
+          {
+            "itemName": "Heartreach Potion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Heartreach_Potion"
+          },
+          {
+            "itemName": "Ironskin Potion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Ironskin_Potion"
+          },
+          {
+            "itemName": "Lifeforce Potion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Lifeforce_Potion"
+          },
+          {
+            "itemName": "Moonshine",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Moonshine"
+          },
+          {
+            "itemName": "Photosynthesis Potion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Photosynthesis_Potion"
+          },
+          {
+            "itemName": "Regeneration Potion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Regeneration_Potion"
+          },
+          {
+            "itemName": "Slice of Cake",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Slice_of_Cake"
+          },
+          {
+            "itemName": "Soaring Potion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Soaring_Potion"
+          },
+          {
+            "itemName": "Swiftness Potion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Swiftness_Potion"
+          },
+          {
+            "itemName": "Fabsol's Vodka",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Fabsol%27s_Vodka"
+          },
+          {
+            "itemName": "Moscow Mule",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Moscow_Mule"
+          },
+          {
+            "itemName": "Tequila Sunrise",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Tequila_Sunrise"
+          },
+          {
+            "itemName": "Rage Potion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Rage_Potion"
+          },
+          {
+            "itemName": "Wrath Potion",
+            "itemURL": "https://calamitymod.wiki.gg/wiki/Wrath_Potion"
+          }
+        ]
+      }
+    ]
+  }
+]
