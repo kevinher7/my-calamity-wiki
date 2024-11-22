@@ -12,11 +12,15 @@ export const scrapeWiki = async () => {
 	const preHardmodeUrl =
 		"https://calamitymod.wiki.gg/index.php?action=render&title=Guide%3AClass%20setups%2FPre-Hardmode";
 
+	const hardmodeURL = "";
+
+	const postMLURL = "";
+
 	const wikiResponse = await getHTLM(preHardmodeUrl);
 
-	const classSetups = getClassSetups(wikiResponse);
+	const classSetupsPH = getClassSetups(wikiResponse);
 
-	writeJsonFile(classSetups);
+	writeJsonFile(classSetupsPH, "preHardmode");
 
 	return 0;
 };
@@ -39,13 +43,14 @@ const getClassSetups = (response: string) => {
 	const $tables = $("table.terraria");
 
 	$tables.each((tableIndex, table) => {
-		// console.log(`table ${tableIndex}`);
 		const setups: classSetup[] = [];
 
-		const $rows = $(table).find("tr").filter(".bottomline");
+		const $classesRows = $(table).find("tr").filter(".bottomline");
+		const $lastRow = $(table).find("tr").last(); // ALl Clases Row
+
+		const $rows = $classesRows.add($lastRow);
 
 		$rows.each((rowIndex, row) => {
-			// console.log(`row ${rowIndex}`);
 			const setup: classSetup = {
 				class: "",
 				weapons: [],
@@ -64,9 +69,16 @@ const getClassSetups = (response: string) => {
 		classSetups.push(setups);
 	});
 
-	// console.log(classSetups[0][0]);
+	const allClassSetups = [];
 
-	return classSetups;
+	for (let index = 0; index < gameStates.length; index++) {
+		allClassSetups.push({
+			gameState: gameStates[index],
+			classSetups: classSetups[index],
+		});
+	}
+
+	return allClassSetups;
 };
 
 const getHTLM = async (url: string) => {
@@ -79,10 +91,9 @@ const getHTLM = async (url: string) => {
 	return response.data;
 };
 
-const writeJsonFile = (
-	jsonData: object[],
-	filePath = "./db/classSetupsData.json"
-) => {
+const writeJsonFile = (jsonData: object[], gameState: string) => {
+	const filePath = `./db/${gameState}ClassSetupsData.json`;
+
 	try {
 		const directory = path.dirname(filePath);
 
@@ -97,8 +108,6 @@ const writeJsonFile = (
 		console.error(`Failed to write JSON data to ${filePath}:`, error);
 	}
 };
-
-const getTableData = ($cheerioTables: cheerio.Cheerio<Element>) => {};
 
 const extractSetupsFromColumn = (
 	$: cheerio.CheerioAPI,
