@@ -18,6 +18,22 @@ const router = createBrowserRouter([
 		path: "/melee",
 		element: <ClassSetupPage classType="Melee" />,
 	},
+	{
+		path: "/ranger",
+		element: <ClassSetupPage classType="Ranger" />,
+	},
+	{
+		path: "/magic",
+		element: <ClassSetupPage classType="Magic" />,
+	},
+	{
+		path: "/summoner",
+		element: <ClassSetupPage classType="Summoner" />,
+	},
+	{
+		path: "/rogue",
+		element: <ClassSetupPage classType="Rogue" />,
+	},
 ]);
 
 createRoot(document.getElementById("root")!).render(

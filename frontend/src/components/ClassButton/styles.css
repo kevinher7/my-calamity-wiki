@@ -1,16 +1,18 @@
-.class--button {
+.class--link {
 	width: 8rem;
 
 	color: var(--light-color);
 	background-color: var(--detail-color);
 
-	font: var(--class-button-font);
+	font: var(--class-link-font);
+	text-align: center;
+	text-decoration: none;
 
 	border: none;
 	border-radius: 10px;
 }
 
-.class--button:hover {
+.class--link:hover {
 	color: var(--detail-color);
 	background-color: var(--light-color);
 	cursor: pointer;
