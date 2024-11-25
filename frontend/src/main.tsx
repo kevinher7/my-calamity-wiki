@@ -19,27 +19,27 @@ const router = createBrowserRouter([
 	{
 		path: "/melee",
 		element: <ClassSetupPage classType="Melee" />,
-		children: createChildRoutes("melee", <h1>A</h1>),
+		children: createChildRoutes("melee"),
 	},
 	{
 		path: "/ranger",
 		element: <ClassSetupPage classType="Ranger" />,
-		children: createChildRoutes("ranger", <h1>A</h1>),
+		children: createChildRoutes("ranger"),
 	},
 	{
 		path: "/magic",
 		element: <ClassSetupPage classType="Magic" />,
-		children: createChildRoutes("magic", <h1>A</h1>),
+		children: createChildRoutes("magic"),
 	},
 	{
 		path: "/summoning",
 		element: <ClassSetupPage classType="Summoning" />,
-		children: createChildRoutes("summoning", <h1>A</h1>),
+		children: createChildRoutes("summoning"),
 	},
 	{
 		path: "/rogue",
 		element: <ClassSetupPage classType="Rogue" />,
-		children: createChildRoutes("rogue", <h1>A</h1>),
+		children: createChildRoutes("rogue"),
 	},
 ]);
 

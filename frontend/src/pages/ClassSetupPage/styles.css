@@ -1,6 +1,7 @@
 .class-setups-page {
 	display: flex;
 	flex-direction: row;
+	width: 100vw;
 }
 
 .boss-progression--container {

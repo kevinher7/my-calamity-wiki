@@ -16,6 +16,8 @@
 	--spacing-xxxl: 5.5rem;
 	--spacing-xxxxl: 10rem;
 
+	--sidebar-width: 6rem;
+
 	/* Colors */
 	--dark-color: #370617;
 	--dark-color-90: #730d30;
@@ -23,7 +25,6 @@
 	--dark-color-70: #ed5e90;
 
 	--sidebar-bg-color: #260101;
-	/* --light-color: #f2e8cf; */
 	--light-color: #fce8ef;
 	--detail-color: #bf0603;
 
@@ -40,6 +41,12 @@
 	/* Class Setup Fonts */
 
 	--boss-prog-font: bold 3rem/2em var(--ff);
+
+	--setup-h1: bold 3.5rem/1.2em var(--ff);
+
+	/* Hyperlinks */
+
+	--a-font: 1.2rem/2.6em var(--ff);
 }
 
 #root {
@@ -51,6 +58,8 @@
 	width: 100vw;
 
 	background-color: var(--dark-color);
+
+	/* overflow: hidden; */
 }
 
 /* Headings */
@@ -70,4 +79,14 @@ h2 {
 p {
 	color: var(--light-color);
 	font: var(--p-font);
+}
+
+a {
+	color: white;
+	font: var(--a-font);
+	text-decoration: none;
+}
+
+a:hover {
+	color: var(--detail-color);
 }

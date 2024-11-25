@@ -84,7 +84,7 @@ const ClassSetupPage = (props: ClassSetupProps) => {
 					</SidebarContext.Provider>
 				</div>
 			</div>
-			<Outlet />
+			{isSidebar ? <Outlet /> : null}
 		</div>
 	);
 };
