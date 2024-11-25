@@ -1,4 +1,8 @@
 .boss-progression--button {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+
 	padding: var(--spacing-xl);
 
 	width: 20rem;
@@ -7,6 +11,8 @@
 	margin: var(--spacing-xxl);
 
 	font: var(--boss-prog-font);
+	text-align: center;
+	text-decoration: none;
 
 	border: none;
 	border-radius: 20px;
@@ -16,7 +22,7 @@
 }
 
 .boss-progression--button:hover {
-	color: white;
+	color: var(--sidebar-bg-color);
 	cursor: pointer;
 }
 

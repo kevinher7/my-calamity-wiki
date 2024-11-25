@@ -1,4 +1,5 @@
 import { useState } from "react";
+// import { Outlet } from "react-router-dom";
 
 import gsap from "gsap";
 import { useGSAP } from "@gsap/react";

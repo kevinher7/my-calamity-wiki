@@ -1,4 +1,5 @@
 import { useContext } from "react";
+import { Link } from "react-router-dom";
 
 import "./styles.css";
 import { SidebarContext } from "../../utils/SidebarContext";
@@ -23,7 +24,8 @@ const BossProgression = (props: BossProgressionProps) => {
 	};
 
 	return (
-		<button
+		<Link
+			to={`/${props.progressionState.replace(/\s/g, "")}`}
 			className="boss-progression--button"
 			onClick={handleClick}
 			data-sidebar={isSidebar}
@@ -37,7 +39,22 @@ const BossProgression = (props: BossProgressionProps) => {
 			) : (
 				props.progressionState
 			)}
-		</button>
+		</Link>
+		// <button
+		// 	className="boss-progression--button"
+		// 	onClick={handleClick}
+		// 	data-sidebar={isSidebar}
+		// >
+		// 	{isSidebar ? (
+		// 		<img
+		// 			src={props.progressIcon}
+		// 			alt={props.progressionState}
+		// 			width={70}
+		// 		/>
+		// 	) : (
+		// 		props.progressionState
+		// 	)}
+		// </button>
 	);
 };
 
