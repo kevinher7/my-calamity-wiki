@@ -27,8 +27,8 @@ const router = createBrowserRouter([
 		element: <ClassSetupPage classType="Magic" />,
 	},
 	{
-		path: "/summoner",
-		element: <ClassSetupPage classType="Summoner" />,
+		path: "/summoning",
+		element: <ClassSetupPage classType="Summoning" />,
 	},
 	{
 		path: "/rogue",

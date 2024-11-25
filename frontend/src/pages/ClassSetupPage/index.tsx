@@ -34,7 +34,7 @@ const ClassSetupPage = (props: ClassSetupProps) => {
 			gsap.to(".boss-progression--container", {
 				height: "100vh",
 				width: "6rem",
-				backgroundColor: "var(--dark-color-80)",
+				backgroundColor: "var(--sidebar-bg-color)",
 				ease: "sine.in",
 			});
 
