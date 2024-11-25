@@ -7,6 +7,7 @@ import { SidebarContext } from "../../utils/SidebarContext";
 interface BossProgressionProps {
 	progressionState: string;
 	progressIcon: string;
+	selectedClass: string;
 }
 
 const BossProgression = (props: BossProgressionProps) => {
@@ -25,7 +26,9 @@ const BossProgression = (props: BossProgressionProps) => {
 
 	return (
 		<Link
-			to={`/${props.progressionState.replace(/\s/g, "")}`}
+			to={`/${props.selectedClass}/${props.progressionState
+				.replace(/\s/g, "")
+				.toLowerCase()}`} //remove all blank spaces in the string and then make lowercase
 			className="boss-progression--button"
 			onClick={handleClick}
 			data-sidebar={isSidebar}

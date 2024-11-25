@@ -1,5 +1,5 @@
 import { useState } from "react";
-// import { Outlet } from "react-router-dom";
+import { Outlet } from "react-router-dom";
 
 import gsap from "gsap";
 import { useGSAP } from "@gsap/react";
@@ -55,28 +55,36 @@ const ClassSetupPage = (props: ClassSetupProps) => {
 	);
 
 	return (
-		<div className="boss-progression--container">
-			{isSidebar ? (
-				<img src={meleeIcon} alt={props.classType} width={75} />
-			) : (
-				<h1 id="class-setup--h1">{props.classType}</h1>
-			)}
-			<div className="boss-progression--button-container">
-				<SidebarContext.Provider value={{ isSidebar, setIsSidebar }}>
-					<BossProgression
-						progressionState="Pre-Hardmode"
-						progressIcon={preHardmodeIcon}
-					/>
-					<BossProgression
-						progressionState="Hardmode"
-						progressIcon={hardmodeIcon}
-					/>
-					<BossProgression
-						progressionState="Post-Moon Lord"
-						progressIcon={moonLordIcon}
-					/>
-				</SidebarContext.Provider>
+		<div className="class-setups-page">
+			<div className="boss-progression--container">
+				{isSidebar ? (
+					<img src={meleeIcon} alt={props.classType} width={75} />
+				) : (
+					<h1 id="class-setup--h1">{props.classType}</h1>
+				)}
+				<div className="boss-progression--button-container">
+					<SidebarContext.Provider
+						value={{ isSidebar, setIsSidebar }}
+					>
+						<BossProgression
+							progressionState="Pre-Hardmode"
+							progressIcon={preHardmodeIcon}
+							selectedClass={props.classType.toLowerCase()}
+						/>
+						<BossProgression
+							progressionState="Hardmode"
+							progressIcon={hardmodeIcon}
+							selectedClass={props.classType.toLowerCase()}
+						/>
+						<BossProgression
+							progressionState="Post-Moon Lord"
+							progressIcon={moonLordIcon}
+							selectedClass={props.classType.toLowerCase()}
+						/>
+					</SidebarContext.Provider>
+				</div>
 			</div>
+			<Outlet />
 		</div>
 	);
 };

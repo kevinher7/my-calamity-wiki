@@ -1,3 +1,8 @@
+.class-setups-page {
+	display: flex;
+	flex-direction: row;
+}
+
 .boss-progression--container {
 	display: flex;
 	flex-direction: column;
