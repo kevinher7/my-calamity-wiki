@@ -18,7 +18,6 @@ const BossProgression = (props: BossProgressionProps) => {
 	const handleClick = () => {
 		if (setIsSidebar) {
 			setIsSidebar(true);
-			console.log(isSidebar);
 			return;
 		}
 		console.error("setIsSidebar is not defined");
@@ -43,21 +42,6 @@ const BossProgression = (props: BossProgressionProps) => {
 				props.progressionState
 			)}
 		</Link>
-		// <button
-		// 	className="boss-progression--button"
-		// 	onClick={handleClick}
-		// 	data-sidebar={isSidebar}
-		// >
-		// 	{isSidebar ? (
-		// 		<img
-		// 			src={props.progressIcon}
-		// 			alt={props.progressionState}
-		// 			width={70}
-		// 		/>
-		// 	) : (
-		// 		props.progressionState
-		// 	)}
-		// </button>
 	);
 };
 

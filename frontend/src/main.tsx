@@ -17,29 +17,29 @@ const router = createBrowserRouter([
 		errorElement: <NotFoundPage />,
 	},
 	{
-		path: "/melee",
+		path: "/Melee",
 		element: <ClassSetupPage classType="Melee" />,
-		children: createChildRoutes("melee"),
+		children: createChildRoutes("Melee"),
 	},
 	{
-		path: "/ranger",
+		path: "/Ranged",
 		element: <ClassSetupPage classType="Ranger" />,
-		children: createChildRoutes("ranger"),
+		children: createChildRoutes("Ranged"),
 	},
 	{
-		path: "/magic",
+		path: "/Magic",
 		element: <ClassSetupPage classType="Magic" />,
-		children: createChildRoutes("magic"),
+		children: createChildRoutes("Magic"),
 	},
 	{
-		path: "/summoning",
+		path: "/Summoning",
 		element: <ClassSetupPage classType="Summoning" />,
-		children: createChildRoutes("summoning"),
+		children: createChildRoutes("Summoning"),
 	},
 	{
-		path: "/rogue",
+		path: "/Rogue",
 		element: <ClassSetupPage classType="Rogue" />,
-		children: createChildRoutes("rogue"),
+		children: createChildRoutes("Rogue"),
 	},
 ]);
 

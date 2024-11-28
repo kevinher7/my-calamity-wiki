@@ -33,4 +33,5 @@
 .setup-table tbody > tr > td {
 	color: white;
 	font: 1.2rem/2.6em var(--ff);
+	text-align: center;
 }
