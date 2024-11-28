@@ -6,15 +6,30 @@ export const createChildRoutes = (
 	return [
 		{
 			path: `/${baseUrl}/Pre-Hardmode`,
-			element: <SetupsDisplay selectedClass={baseUrl} />,
+			element: (
+				<SetupsDisplay
+					selectedClass={baseUrl}
+					currentGameProgression="preHardmode"
+				/>
+			),
 		},
 		{
 			path: `/${baseUrl}/Hardmode`,
-			element: <SetupsDisplay selectedClass={baseUrl} />,
+			element: (
+				<SetupsDisplay
+					selectedClass={baseUrl}
+					currentGameProgression="hardmode"
+				/>
+			),
 		},
 		{
 			path: `/${baseUrl}/Post-MoonLord`,
-			element: <SetupsDisplay selectedClass={baseUrl} />,
+			element: (
+				<SetupsDisplay
+					selectedClass={baseUrl}
+					currentGameProgression="postMoonLord"
+				/>
+			),
 		},
 	];
 };

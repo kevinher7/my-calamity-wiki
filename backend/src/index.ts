@@ -1,12 +1,16 @@
 import * as fs from "fs";
+// import cors from "cors";
 
 import express, { Request, Response } from "express";
 import { scrapeWiki } from "./utils/scrapeWiki";
 
 const app = express();
+// app.use(cors());
+
 const PORT = 8050;
 
 app.get("/api/get-class-setups", (req: Request, res: Response) => {
+	console.log("Trying to Get");
 	const classSetups = {
 		preHardmode: JSON.parse(
 			fs.readFileSync("./db/preHardmodeClassSetupsData.json", "utf-8")
