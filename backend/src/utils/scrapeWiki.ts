@@ -78,7 +78,17 @@ const getClassSetups = (response: string) => {
 		});
 	}
 
-	return allClassSetups;
+	return allClassSetups.map((setupAtGameState) => {
+		return {
+			gameState: setupAtGameState.gameState,
+			Melee: setupAtGameState.classSetups[0],
+			Ranged: setupAtGameState.classSetups[1],
+			Magic: setupAtGameState.classSetups[2],
+			Summoning: setupAtGameState.classSetups[3],
+			Rogue: setupAtGameState.classSetups[4],
+			"All classes": setupAtGameState.classSetups[5],
+		};
+	});
 };
 
 const getHTLM = async (url: string) => {
