@@ -156,10 +156,6 @@
         {
           "itemName": "Veering Wind",
           "itemURL": "https://calamitymod.wiki.gg/wiki/Veering_Wind"
-        },
-        {
-          "itemName": "Wulfrum Prosthesis",
-          "itemURL": "https://calamitymod.wiki.gg/wiki/Wulfrum_Prosthesis"
         }
       ],
       "armor": [
@@ -178,10 +174,6 @@
         {
           "itemName": "Wizard Hat",
           "itemURL": "https://calamitymod.wiki.gg/wiki/Wizard_Hat"
-        },
-        {
-          "itemName": "Jungle armor",
-          "itemURL": "https://calamitymod.wiki.gg/wiki/Jungle_armor"
         }
       ],
       "accesories": [
@@ -2108,14 +2100,6 @@
         {
           "itemName": "Flamelash",
           "itemURL": "https://calamitymod.wiki.gg/wiki/Flamelash"
-        },
-        {
-          "itemName": "Magic Missile",
-          "itemURL": "https://calamitymod.wiki.gg/wiki/Magic_Missile"
-        },
-        {
-          "itemName": "Night's Ray",
-          "itemURL": "https://calamitymod.wiki.gg/wiki/Night%27s_Ray"
         },
         {
           "itemName": "Pulse Pistol",
