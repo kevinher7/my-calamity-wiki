@@ -56,7 +56,10 @@ const SetupsDisplay = (props: SetupsDisplayProps) => {
 					}
 				)
 			) : (
-				<h1>Nos Funaron 😔</h1>
+				<>
+					<h1>Nos Funaron 😔</h1>
+					<h2>Couldn't connect to Server</h2>
+				</>
 			)}
 		</main>
 	);
